@@ -14,3 +14,6 @@ parameter estimation, increasing the potential of such models to be used in a
 predictive way. The objective of this Subgroup is to accelerate these efforts, by
 supporting and advancing the use of mathematical modeling as part of the
 ‘toolkit’ of cell and developmental biology.
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=SMBdevBio&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-show-count="false">Tweet #SMBdevBio</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
