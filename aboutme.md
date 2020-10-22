@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Cell and Developmental Biology Subgroup
-#subtitle: Why you'd want to go on a date with me
 ---
 
 The **Subgroup on Cell and Developmental Biology** brings together researchers
