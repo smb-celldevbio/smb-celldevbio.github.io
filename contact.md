@@ -10,4 +10,5 @@ You may also subscribe to our Google listserv [here](https://groups.google.com/g
 Please email us with any suggestions at [smbcelldevbio@gmail.com](smbcelldevbio@gmail.com).
 
 Thank you,
+
 Veronica Ciocanel, Rubén Pérez-Carrasco, Linus Schumacher, Tracy Stepien, Renske Vroomans
