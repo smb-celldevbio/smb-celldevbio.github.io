@@ -1,5 +1,5 @@
 images: 
-  - image: /uploads/slider/image1.png {: style="float: left; margin-right: 1em;"}
-  - image: /uploads/slider/image2.png {: style="float: left; margin-right: 1em;"}
-  - image: /uploads/slider/image3.png {: style="float: left; margin-right: 1em;"}
-  - image: /uploads/slider/image4.png {: style="float: left; margin-right: 1em;"}
+  - image: /uploads/slider/image1.png {: style="float: center; margin-right: 1em;"}
+  - image: /uploads/slider/image2.png {: style="float: center; margin-right: 1em;"}
+  - image: /uploads/slider/image3.png {: style="float: center; margin-right: 1em;"}
+  - image: /uploads/slider/image4.png {: style="float: center; margin-right: 1em;"}
