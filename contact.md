@@ -11,4 +11,8 @@ Please email us with any suggestions at [smbcelldevbio@gmail.com](smbcelldevbio@
 
 Thank you,
 
-Veronica Ciocanel, Rubén Pérez-Carrasco, Linus Schumacher, Tracy Stepien, Renske Vroomans
+Chair: [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/)
+
+Secretary: [Rubén Pérez-Carrasco](http://www.perez-carrasco.com/)
+
+Committee Members: [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), [Tracy Stepien](https://people.clas.ufl.edu/tstepien/), [Renske Vroomans](https://www.origins-center.nl/rdy_team/renske-vroomans/)
