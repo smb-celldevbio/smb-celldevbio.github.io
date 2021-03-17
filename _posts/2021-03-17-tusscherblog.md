@@ -29,7 +29,7 @@ Additionally, for plants I study the interplay between developmental patterning 
 In a sense, plant growth patterns reflect a plant’s behavior in response to its environment. 
 I strive to answer how plants use complex molecular networks to process and integrate information from the cell, tissue, organ and whole plant level to “compute” what to do based on their environmental conditions. 
 
-![Kymograph of Kirsten's auxin root model](/uploads/dawes_blog/plant_model.png){: .mx-auto.d-block :}
+![Kymograph of Kirsten's auxin root model](/uploads/tusscher_blog/plant_model.png){: .mx-auto.d-block :}
 
 **What do you like to do in your spare time outside of work?**
 
