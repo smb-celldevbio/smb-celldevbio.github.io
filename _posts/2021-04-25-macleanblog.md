@@ -31,6 +31,7 @@ Why are these questions interesting?? Oh boy! Take stem cells. Stem cells are wi
 
 **What is a typical work day/week like?**
 
+Recently, more or less like this:
 ![Recently, more or less like this.](/uploads/maclean_blog/work.jpg){: .mx-auto.d-block :}
 
 **Do you have any advice for someone considering a career in mathematical biology?**
