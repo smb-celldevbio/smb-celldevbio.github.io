@@ -14,6 +14,7 @@ In March's blog post, we feature an interview with [Prof. dr. Kirsten ten Tussch
 I am a computational biologist with a passion for understanding the complex developmental patterns that shape multicellular life and the evolutionary processes that brought them into being.
 
 **When did you first become interested in mathematics and biology?**
+
 In high school, biology, mathematics, and the modeling applied in macro-economics were my favorite subjects, so choosing what to study was not easy. 
 Fortunately, my interest in evolution and development caused me to choose to study Biology in Utrecht, where there was this great Theoretical Biology group that I am now proud to be part of myself. 
 Following the first Theoretical Biology course, I realized I found the perfect match for my interests, and I guess the rest is history. 
