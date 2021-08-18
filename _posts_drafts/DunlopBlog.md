@@ -11,7 +11,7 @@ In July's blog post, we feature an interview with [Dr. Carina Dunlop](https://ww
 
 <img src="https://smb-celldevbio.github.io/uploads/dunlop_blog/img1.jpg" width="500" alt="Carina Dunlop" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
-<center>_Still working in fluids!_</center>
+-> _Still working in fluids!_ <-
 
 **When did you first become interested in mathematics and biology?**
 
@@ -45,4 +45,4 @@ Well 'the girls'' Disney subscription just happens to have kept me supplied with
 
 <img src="https://smb-celldevbio.github.io/uploads/dunlop_blog/img2.jpg" width="500" alt="Carina Dunlop with students" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
-_One of the best days – celebrating a PhD success (well done to Josephine Solowiej-Wedderburn)_
+-> _One of the best days – celebrating a PhD success (well done to Josephine Solowiej-Wedderburn)_ <-
