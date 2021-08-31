@@ -37,5 +37,5 @@ In addition to that I do have a few others. If possible, try joining a research 
 
 I mostly spend my spare time with the family, taking the kids to the pool, out for a walk in the neighborhood and the woods, or to ride (and learn how to ride) their bikes. I also like to watch movies and TV series on the Internet. 
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_images/belmonte/homeofficing.jpg" width="500" alt="Home Officing" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+![Home Officing](/uploads/blog_images/belmonte/homeofficing.jpg){: .mx-auto.d-block :}
 <p align="center"><i>Home Officing</i></p>
