@@ -27,6 +27,9 @@ After having some coffee at the cafeteria (i.e. my kitchen downstairs), I typica
 
 The content above will change over the year, of course, and may include an online conference, teaching a class/workshop, and serving on committees, but that is more or less what it feels like. I must agree with the previous blog post that more hours in a week would be very convenient.
 
+![Home Officing](/uploads/blog_images/belmonte/homeofficing.jpg){: .mx-auto.d-block :}
+<p align="center"><i>Home Officing</i></p>
+
 **Do you have any advice for someone considering a career in mathematical biology?**
 
 My first advice is to read the previous answers to this question in the other blog posts! They are really good.
@@ -36,6 +39,3 @@ In addition to that I do have a few others. If possible, try joining a research 
 **What do you like to do in your spare time outside of work?**
 
 I mostly spend my spare time with the family, taking the kids to the pool, out for a walk in the neighborhood and the woods, or to ride (and learn how to ride) their bikes. I also like to watch movies and TV series on the Internet. 
-
-![Home Officing](/uploads/blog_images/belmonte/homeofficing.jpg){: .mx-auto.d-block :}
-<p align="center"><i>Home Officing</i></p>
