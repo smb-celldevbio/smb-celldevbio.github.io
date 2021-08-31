@@ -9,7 +9,7 @@ comments: true
 
 In July's blog post, we feature an interview with [Dr. Carina Dunlop](https://www.surrey.ac.uk/people/carina-dunlop), Senior Lecturer of Mathematics, University of Surrey.
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_dunlop/img1.jpg" width="500" alt="Carina Dunlop" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/dunlop/img1.jpg" width="500" alt="Carina Dunlop" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 <p align="center"><i>Still working in fluids!</i></p>
 
 **When did you first become interested in mathematics and biology?**
@@ -42,5 +42,5 @@ Go for it! With a caveat - mathematical biology is hugely rewarding, fascinating
 
 Well 'the girls'' Disney subscription just happens to have kept me supplied with enough Marvel shows/films for a bit! As I am sure we all feel, however, particularly with children, spare time is tight. Whatever there is we though we fill with board games, reading, getting outdoors walking/exploring, and as much sports/exercise as time allows.
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_dunlop/img2.jpg" width="500" alt="Carina Dunlop with students" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/dunlop/img2.jpg" width="500" alt="Carina Dunlop with students" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 <p align="center"><i>One of the best days – celebrating a PhD success (well done to Josephine Solowiej-Wedderburn)</i></p>
