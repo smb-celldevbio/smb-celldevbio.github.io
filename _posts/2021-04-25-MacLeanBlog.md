@@ -32,7 +32,7 @@ Why are these questions interesting?? Oh boy! Take stem cells. Stem cells are wi
 **What is a typical work day/week like?**
 
 Recently, more or less like this:
-![Recently, more or less like this.](/uploads/maclean_blog/work.jpg){: .mx-auto.d-block :}
+![Recently, more or less like this.](/uploads/blog_images/maclean/work.jpg){: .mx-auto.d-block :}
 
 **Do you have any advice for someone considering a career in mathematical biology?**
 
@@ -44,5 +44,6 @@ A note on this answer (also relevant to several other answers above related to m
 
 Spare time these days is preciously sparse, mostly thanks to two kids at home. When I do steal a free hour or a day, I love to get outside. It’s one of the reasons I chose to live in California - beaches, mountains, and snow are all within a short drive. Skiing has always been my favorite sport, close by we have great local ski areas at Snow Valley and Big Bear. Slightly farther afield, Mammoth mountain is fantastic. I always planned to learn to surf properly when I moved here, but it hasn’t happened yet. My new plan is to tag along with my kids if they decide to pick it up, and perhaps we can learn together. If they’ll have me.
 
-![Sparking the kids' interest in surfing](/uploads/maclean_blog/beach.jpg){: .mx-auto.d-block :}
+![Sparking the kids' interest in surfing](/uploads/blog_images/maclean/beach.jpg){: .mx-auto.d-block :}
+<p align="center"><i>Sparking the kids' interest in surfing</i></p>
 
