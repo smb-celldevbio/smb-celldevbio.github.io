@@ -19,7 +19,7 @@ In high school, biology, mathematics, and the modeling applied in macro-economic
 Fortunately, my interest in evolution and development caused me to choose to study Biology in Utrecht, where there was this great Theoretical Biology group that I am now proud to be part of myself. 
 Following the first Theoretical Biology course, I realized I found the perfect match for my interests, and I guess the rest is history. 
 
-![Kirsten in the server room at UU](/uploads/tusscher_blog/kirsten.jpeg){: .mx-auto.d-block :}
+![Kirsten in the server room at UU](/uploads/blog_images/tusscher/kirsten.jpeg){: .mx-auto.d-block :}
 
 **What are your main research questions?**
 
@@ -30,7 +30,7 @@ Additionally, for plants I study the interplay between developmental patterning 
 In a sense, plant growth patterns reflect a plant’s behavior in response to its environment. 
 I strive to answer how plants use complex molecular networks to process and integrate information from the cell, tissue, organ and whole plant level to “compute” what to do based on their environmental conditions. 
 
-![Kymograph of Kirsten's auxin root model](/uploads/tusscher_blog/plant_model.png){: .mx-auto.d-block :}
+![Kymograph of Kirsten's auxin root model](/uploads/blog_images/tusscher/plant_model.png){: .mx-auto.d-block :}
 
 **What do you like to do in your spare time outside of work?**
 
