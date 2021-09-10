@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Junior Investigator Feature with Dr. Jay Stotsky
+title: Junior Researcher Feature with Dr. Jay Stotsky
 subtitle: Postdoctoral Researcher in Mathematics, University of Minnesota
 gh-repo: daattali/beautiful-jekyll
 tags: [junior feature]
 comments: true
 ---
 
-Since the beginning of 2021, we've been posting interviews with tenured/tenure-track level researchers, but starting this month, we're also going to post interviews with students and postdocs in our Junior Investigator Features!
+Since the beginning of 2021, we've been posting interviews with tenured/tenure-track level researchers, but starting this month, we're also going to post interviews with students and postdocs in our Junior Researcher Features!
 
-In September's Junior Investigator Feature, we have an interview with [Dr. Jay Stotsky](https://cse.umn.edu/math/jay-stotsky), Postdoctoral Researcher in Mathematics, University of Minnesota.
+In September's Junior Researcher Feature, we have an interview with [Dr. Jay Stotsky](https://cse.umn.edu/math/jay-stotsky), Postdoctoral Researcher in Mathematics, University of Minnesota.
 
 <img src="https://smb-celldevbio.github.io/uploads/blog_images/stotsky/Jay_Stotsky.jpg" width="150" alt="Jay Stotsky" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
 
