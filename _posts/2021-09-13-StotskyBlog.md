@@ -11,7 +11,7 @@ Since the beginning of 2021, we've been posting interviews with tenured/tenure-t
 
 In September's Junior Researcher Feature, we have an interview with [Dr. Jay Stotsky](https://jaystotsky.wordpress.com), Postdoctoral Researcher in Mathematics, University of Minnesota.
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_images/stotsky/Jay_Stotsky.jpg" width="150" alt="Jay Stotsky" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/stotsky/Jay_Stotsky.jpg" alt="Jay Stotsky" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" />
 
 **When did you first become interested in mathematics and biology?**
 
