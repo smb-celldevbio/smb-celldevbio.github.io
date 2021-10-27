@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Interview with Dr. Vijay Rajagopal
-subtitle: Senior Lecturer of Biomedical Engineering, University of Melbourne
+subtitle: Senior Lecturer of Biomedical Engineering, The University of Melbourne
 gh-repo: daattali/beautiful-jekyll
 tags: [interview]
 comments: true
 ---
 
-In October's blog post, we feature an interview with [Dr. Vijay Rajagopal](https://biomedical.eng.unimelb.edu.au/cell-structure-mechanobiology), Senior Lecturer of Biomedical Engineering, University of Melbourne.
+In October's blog post, we feature an interview with [Dr. Vijay Rajagopal](https://biomedical.eng.unimelb.edu.au/cell-structure-mechanobiology), Senior Lecturer of Biomedical Engineering, The University of Melbourne.
 
 **When did you first become interested in mathematics and biology?**
 
