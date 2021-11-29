@@ -7,7 +7,7 @@ tags: [interview]
 comments: true
 ---
 
-In October's blog post, we feature an interview with [Dr. Padmini Rangamani](https://sites.google.com/eng.ucsd.edu/prangamani/home?authuser=0), Professor of Mechanical and Aerospace Engineering, University of California San Diego.
+In November's blog post, we feature an interview with [Dr. Padmini Rangamani](https://sites.google.com/eng.ucsd.edu/prangamani/home?authuser=0), Professor of Mechanical and Aerospace Engineering, University of California San Diego.
 
 **When did you first become interested in mathematics and biology?**
 
