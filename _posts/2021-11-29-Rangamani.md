@@ -9,7 +9,7 @@ comments: true
 
 In November's blog post, we feature an interview with [Dr. Padmini Rangamani](https://sites.google.com/eng.ucsd.edu/prangamani/home?authuser=0), Professor of Mechanical and Aerospace Engineering, University of California San Diego.
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_images/rangamani/padmini.jpeg" alt="Padmini Rangamani" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/rangamani/padmini.jpeg" alt="Padmini Rangamani" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" />
 
 **When did you first become interested in mathematics and biology?**
 
