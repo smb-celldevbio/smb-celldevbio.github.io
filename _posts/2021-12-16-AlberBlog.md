@@ -9,7 +9,7 @@ comments: true
 
 In December's blog post, we feature an interview with [Dr. Mark Alber](https://profiles.ucr.edu/app/home/profile/malber), Distinguished Professor of Mathematics and Director of the [Interdisciplinary Center for Quantitative Modeling in Biology](https://icqmb.ucr.edu), University of California, Riverside.
 
-<img src="https://smb-celldevbio.github.io/uploads/blog_images/albert/ImageAlber.jpg" alt="Mark Alber" style="display: block; margin-left: auto; margin-right: auto;" />
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/alber/ImageAlber.jpg" alt="Mark Alber" style="display: block; margin-left: auto; margin-right: auto;" />
 
 **When did you first become interested in mathematics and biology?**
 
