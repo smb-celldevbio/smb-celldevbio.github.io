@@ -7,7 +7,7 @@ tags: [interview]
 comments: true
 ---
 
-In January's blog post, we feature an interview with [Dr. Bradford Peercy](https://www.surrey.ac.uk/people/carina-dunlop), Associate Professor of Mathematics, University of Maryland, Baltimore County.
+In January's blog post, we feature an interview with [Dr. Bradford Peercy](https://userpages.umbc.edu/~bpeercy/), Associate Professor of Mathematics, University of Maryland, Baltimore County.
 
 **When did you first become interested in mathematics and biology?**
 
