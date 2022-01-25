@@ -32,4 +32,4 @@ There are so many entry points into what one might consider mathematical biology
 
 For any undergraduates, I would say participating in some level of research, ideally at the interface of math and biology, is key.  Getting a feel integrating the "two" disciplines can and be informative for what you want (and don't want) going forward.  As a graduate student, I would suggest developing your technical skills in mathematics (broadly interpreted to include computation and statistical methods) as deeply as possible for a strong foundation.  This is likely to be the strength you bring to your collaborative work.
 
-And if you feel a strong applied math program with projects collaborating with experimentalists is for you, feel free to apply to [UMBC](https://mathstat.umbc.edu/graduate-programs-of-study/). ;)
+And if you feel that a strong applied math program with projects collaborating with experimentalists is for you, feel free to apply to [UMBC](https://mathstat.umbc.edu/graduate-programs-of-study/). ;)
