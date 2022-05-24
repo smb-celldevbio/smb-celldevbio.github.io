@@ -9,7 +9,7 @@ comments: true
 
 In May's Junior Researcher Feature, we have an interview with [Dr. Tamsin Spelman](https://www.slcu.cam.ac.uk/people/tamsin-spelman), Research Associate in the Sainsbury Laboratory, University of Cambridge.
 
-![Tamsin Spelman](/uploads/blog_images/spelman/tamsin-spelman.jpg){: .mx-auto.d-block :}
+<img src="https://smb-celldevbio.github.io/uploads/blog_images/spelman/tamsin-spelman.jpg" alt="Tamsin Spelman" style="display: block; margin-left: auto; margin-right: auto; width: 30%;" />
 
 **When did you first become interested in mathematics and biology?**
 
