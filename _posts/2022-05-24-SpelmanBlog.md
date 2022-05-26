@@ -37,7 +37,7 @@ Recently, I have relied on and helped develop large open-source C++ code to mode
 **How would you describe the results of a recent paper you contributed to?**
 
 <div style="text-align: center;">
-<video width="320" height="240" controls>
+<video width="640" height="360" controls>
     <source type="video/mp4" src="https://smb-celldevbio.github.io/uploads/blog_images/spelman/microtubule_simulations.mp4">
 </video>
 </div>
