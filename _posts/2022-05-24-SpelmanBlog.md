@@ -40,8 +40,8 @@ Recently, I have relied on and helped develop large open-source C++ code to mode
 <video width="640" height="360" controls>
     <source type="video/mp4" src="https://smb-celldevbio.github.io/uploads/blog_images/spelman/microtubule_simulations.mp4">
 </video>
+<i>Microtubule simulations within differently shaped cells</i>
 </div>
-<p align="center"><i>Microtubule simulations within differently shaped cells</i></p>
 
 We showed the importance of geometry control for microtubule organisation, comparing experimental results of Dr. Pauline Durand-Smet in plant protoplast cells placed in shaped microwells to my microtubule simulations (see example simulation above). Additionally, we demonstrated the importance of the cross-over severing protein katanin to this organisation both experimentally and computationally. The paper is published in PNAS: ["Cytoskeletal organisation in isolated plant cells under geometry control" by P. Durand-Smet, T. A. Spelman, E. M. Meyerowitz and H. Jönsson](https://www.pnas.org/doi/10.1073/pnas.2003184117).
 
