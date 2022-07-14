@@ -3,8 +3,7 @@ layout: post
 title: Attending CDEV-themed biology meetings
 subtitle: 
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+tags: [conferences,workshops]
 comments: true
 ---
 
@@ -23,21 +22,21 @@ Toward the engineering side of cell and developmental biology is the [Summer Bio
 We summarize the link of conferences we discussed below, and encourage you to add a comment on this post with suggestions for additional conferences that you would recommend or have experience with. 
 
 **Mathematical/Quantitative Biology conferences:**
-* SMB Annual Meeting: https://www.smb.org/meetings/
-* SIAM Life Sciences: https://www.siam.org/conferences/cm/conference/ls22
-* Q-bio: https://q-bio.org/wp/ and https://w-qbio.org/
+* SMB Annual Meeting: [https://www.smb.org/meetings/](https://www.smb.org/meetings/)
+* SIAM Life Sciences: [https://www.siam.org/conferences/cm/conference/ls22](https://www.siam.org/conferences/cm/conference/ls22)
+* Q-bio: [https://q-bio.org/wp/](https://q-bio.org/wp/) and [https://w-qbio.org/](https://w-qbio.org/)
 
 **Mathematical/Quantitative Biology workshops:**
-* Center for Quantitative Biology: https://www.qbioconference.com/
-* Center for Multiscale Cell Fate Research: https://cellfate.uci.edu/symposium-2021/ 
-* The Southeast Center for Mathematics and Biology: https://scmb.gatech.edu/symposium-about
-* BIRS Mathematics of the Cell: https://www.birs.ca/events/2021/5-day-workshops/21w5154
+* Center for Quantitative Biology: [https://www.qbioconference.com/](ttps://www.qbioconference.com/)
+* Center for Multiscale Cell Fate Research: [https://cellfate.uci.edu/symposium-2021/](https://cellfate.uci.edu/symposium-2021/)
+* The Southeast Center for Mathematics and Biology: [https://scmb.gatech.edu/symposium-about](https://scmb.gatech.edu/symposium-about)
+* BIRS Mathematics of the Cell: [https://www.birs.ca/events/2021/5-day-workshops/21w5154](https://www.birs.ca/events/2021/5-day-workshops/21w5154)
 
 **Life Sciences conferences:**
-* ASCB/EMBO Cell Bio Meeting: https://www.ascb.org/cellbio2022/
-* Society for Developmental Biology meetings: https://www.sdbonline.org/meetings
-* British Society for Developmental Biology meetings: http://bsdb.org/meetings/
-* European Molecular Biology Laboratory events: https://www.embl.org/events/
+* ASCB/EMBO Cell Bio Meeting: [https://www.ascb.org/cellbio2022/](https://www.ascb.org/cellbio2022/)
+* Society for Developmental Biology meetings: [https://www.sdbonline.org/meetings](https://www.sdbonline.org/meetings)
+* British Society for Developmental Biology meetings: [http://bsdb.org/meetings/](http://bsdb.org/meetings/)
+* European Molecular Biology Laboratory events: [https://www.embl.org/events/](https://www.embl.org/events/)
 
 
 <div id="disqus_thread"></div>
