@@ -12,7 +12,7 @@ After the [ECMTB 2022](https://ecmtb2022.org) meeting, new officers were elected
 
 **Secretary:** Alessandra Bonfanti (Politecnico di Milano, Italy)
 
-**Committee members:**
+**Committee Members:**
 - [Maria Abou Chakra](http://individual.utoronto.ca/abouchakra/) (University of Toronto, Canada)
 - [Carina Dunlop](https://www.surrey.ac.uk/people/carina-dunlop) (University of Surrey, UK)
 - [Tian Hong](http://www.tianhonglab.org/) (University of Tennessee, Knoxville, USA)
