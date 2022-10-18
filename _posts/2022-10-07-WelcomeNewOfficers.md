@@ -10,7 +10,7 @@ After the [ECMTB 2022](https://ecmtb2022.org) meeting, new officers were elected
 
 **Chair:** [Alexandria Volkening](https://www.alexandriavolkening.com) (Purdue University, USA)
 
-**Secretary:**: Alessandra Bonfanti (Politecnico di Milano, Italy)
+**Secretary:** Alessandra Bonfanti (Politecnico di Milano, Italy)
 
 **Committee members:**
 - [Maria Abou Chakra](http://individual.utoronto.ca/abouchakra/) (University of Toronto, Canada)
