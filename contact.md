@@ -11,8 +11,11 @@ Please email us with any suggestions at [smbcelldevbio@gmail.com](smbcelldevbio@
 
 Thank you,
 
-Chair: [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/)
+**Chair:** [Alexandria Volkening](https://www.alexandriavolkening.com) (Purdue University, USA)
 
-Secretary: [Rubén Pérez-Carrasco](http://www.perez-carrasco.com/)
+**Secretary:** Alessandra Bonfanti (Politecnico di Milano, Italy)
 
-Committee Members: [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), [Tracy Stepien](https://people.clas.ufl.edu/tstepien/), [Renske Vroomans](https://www.origins-center.nl/rdy_team/renske-vroomans/)
+**Committee Members:**
+- [Maria Abou Chakra](http://individual.utoronto.ca/abouchakra/) (University of Toronto, Canada)
+- [Carina Dunlop](https://www.surrey.ac.uk/people/carina-dunlop) (University of Surrey, UK)
+- [Tian Hong](http://www.tianhonglab.org/) (University of Tennessee, Knoxville, USA)
