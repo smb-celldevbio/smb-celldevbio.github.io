@@ -6,7 +6,7 @@ tags: [welcome]
 comments: true
 ---
 
-After the ECTMB 2022 meeting, new officers were elected for the SMB Subgroup on Cell and Developmental Biology. On behalf of the previous officers [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/), [Rubén Pérez-Carrasco](http://www.perez-carrasco.com/), [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), [Tracy Stepien](https://people.clas.ufl.edu/tstepien/), and [Renske Vroomans](https://www.origins-center.nl/rdy_team/renske-vroomans/), we are excited to announce the incoming officers:
+After the [ECMTB 2022](https://ecmtb2022.org) meeting, new officers were elected for the SMB Subgroup on Cell and Developmental Biology. On behalf of the previous officers [Veronica Ciocanel](https://services.math.duke.edu/~ciocanel/), [Rubén Pérez-Carrasco](http://www.perez-carrasco.com/), [Linus Schumacher](https://www.ed.ac.uk/regenerative-medicine/research/linus-schumacher), [Tracy Stepien](https://people.clas.ufl.edu/tstepien/), and [Renske Vroomans](https://www.origins-center.nl/rdy_team/renske-vroomans/), we are excited to announce the incoming officers:
 
 **Chair:** [Alexandria Volkening](https://www.alexandriavolkening.com) (Purdue University, USA)
 
