@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2022 ECMTB/SMB Poster Prize Winner: Jelle van der Voort
+title: Jelle van der Voort, 2022 ECMTB/SMB Poster Prize Winner
 subtitle: PhD Candidate, Leiden University
 gh-repo: daattali/beautiful-jekyll
 tags: [interview]
