@@ -7,7 +7,7 @@ tags: [interview]
 comments: true
 ---
 
-In this blog post, we feature an interview with Dr. Mindy Lu Perkins, a postdoctoral fellow in the European Molecular Biology Laboratory, Heidelberg.
+In this blog post, we feature an interview with Dr. Mindy Liu Perkins, a postdoctoral fellow in the European Molecular Biology Laboratory, Heidelberg.
 
 **When did you first become interested in mathematics and biology?**
 
