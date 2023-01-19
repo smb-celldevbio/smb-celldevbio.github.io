@@ -15,9 +15,6 @@ I came to biology first, through a childhood love of dinosaurs and unusual anima
 
 **What are the main biological research questions that you are interested in?**
 
-<img src="/uploads/blog_images/perkins/perkins_image.png" alt="A fruit fly embryo (right) and larva (left) stained for a particular protein (red).  The blue stain is meant to help identify the nucleus." style="display: block; margin-left: auto; margin-right: auto; width: 35%;" />
-<p align="center"><i>A fruit fly embryo (right) and larva (left) stained for a particular protein (red).  The blue stain is meant to help identify the nucleus.</i></p>
-
 
 Since graduate school, my research has focused on understanding, from a mathematical perspective, how gene expression patterns like checkerboards or stripes emerge in groups of cells.  What role does cell-to-cell signaling play in pattern formation?  How are earlier patterns used to instruct the formation of later patterns?  How does this relate to the mathematical properties of the underlying genetic networks?  How is a multicellular pattern affected by the underlying dynamics in single cells, for example, the speed with which individual genes can turn on and off?  How do we distinguish stochastic from deterministic contributions to patterning?  I’ve used mathematical modeling from dynamical systems and control theory to investigate these phenomena in various setups in synthetic and developmental biology.
 
