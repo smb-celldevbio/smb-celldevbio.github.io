@@ -33,7 +33,7 @@ I find interdisciplinary research to be extremely rewarding, both because I like
 
 **How would you describe the results of a recent paper you contributed to?**
 <div align="center">
-<img src="/uploads/blog_images/perkins/movie_Perkins_full.gif" alt="video of fushi tarazu (ftz) gene expression by Mindy Liu Perkins, Jiaxi Zhao, Matthew Norstad, and Hernan Garcia" width="35%"  />
+<img src="/uploads/blog_images/perkins/movie_Perkins_374px.gif" alt="video of fushi tarazu (ftz) gene expression by Mindy Liu Perkins, Jiaxi Zhao, Matthew Norstad, and Hernan Garcia" width="400"  />
 <div/>
 <div align="left">
   
