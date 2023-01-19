@@ -32,6 +32,7 @@ The literature on patterning in developmental biology often involves discussion 
 I find interdisciplinary research to be extremely rewarding, both because I like learning about many different areas and because I enjoy seeing the way people with formal training in those areas approach the same problems with unique insights and methods.  However, this diversity can also make the work very challenging, because not everyone agrees on how to value or evaluate various pieces of evidence, or even on what’s considered acceptable or sufficient to support a conclusion.  For this reason, there are few established standards for how to validate results, which means you have to get comfortable generating the justification yourself.  That both the methods and the results draw from disparate sources also means it can be hard to find readers who can understand or engage with the work as a whole, so you really have to try hard to communicate clearly and precisely, and learn how to balance accessibility for a broad audience with enough detail to satisfy specialists in each of the areas you touch.
 
 **How would you describe the results of a recent paper you contributed to?**
+<div/>
 <div align="center">
 <img src="/uploads/blog_images/perkins/movie_Perkins_374px.gif" alt="video of fushi tarazu (ftz) gene expression by Mindy Liu Perkins, Jiaxi Zhao, Matthew Norstad, and Hernan Garcia" width="400"  />
 <div/>
