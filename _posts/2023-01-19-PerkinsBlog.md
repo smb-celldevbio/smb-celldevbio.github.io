@@ -38,3 +38,5 @@ I had a [preprint](https://www.biorxiv.org/content/10.1101/2022.10.31.514335v1.a
 
 I have a creative side that I indulge with writing, drawing, and (when I have time for it) playing the viola and piano.  I grew up in Colorado, so I also love hiking or camping in the mountains, especially during the summer.  Since I moved to Germany for my postdoc, I’ve also been trying to improve my German, which sometimes feels even harder than my research!  But I’m having fun.
 
+
+
