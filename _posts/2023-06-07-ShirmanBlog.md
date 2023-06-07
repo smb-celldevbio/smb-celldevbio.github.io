@@ -52,5 +52,3 @@ If I want to get moving, I rock climb and take aerial arts classes. But if I'm f
 
 The first job search is the hardest. You will probably have to send out a lot of applications. But once you've built up a bit of a network, the subsequent job searches will be easier. Don't get discouraged. But also, remember that your job shouldn't be your whole life. Make time outside of work to live your life. And make sure you're getting paid what you're worth.
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
