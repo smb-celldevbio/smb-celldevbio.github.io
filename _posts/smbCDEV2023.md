@@ -7,7 +7,7 @@ tags: [interview]
 comments: true
 ---
 
-During the [2023 SMB Annual Meeting](https://2023.smb.org) in Columbus, Ohio, the CDEV Subgroup held a business meeting to share our activities and get feedback from the CDEV community on what activities our subgroup should focus on in the coming year. Thank you to all who attended this meeting and shared their ideas, as well as to the presenters, minisymposium organizers, and volunteers who judged CDEV posters at the SMB Annual Meeting! In this blog post, we share our slides from the CDEV Subgroup meeting, and overview some information about CDEV and some ideas that we dicussed in Columbus. See full details in our slides [linked here](/uploads/keynote/SMB_CDEVgroupMeeting.pdf).
+During the [2023 SMB Annual Meeting](https://2023.smb.org) in Columbus, Ohio, the CDEV Subgroup held a business meeting to share our activities and get feedback from the CDEV community on what activities our subgroup should focus on in the coming year. Thank you to all who attended this meeting and shared their ideas, as well as to the presenters, minisymposium organizers, and volunteers who judged CDEV posters at the SMB Annual Meeting! In this blog post, we share our slides from the CDEV Subgroup meeting, and overview some information about CDEV and some ideas that we dicussed in Columbus. See full details in our slides.
 
 **How to find CDEV**
 
