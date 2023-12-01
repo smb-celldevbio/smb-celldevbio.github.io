@@ -8,5 +8,6 @@ The SMB Cell and Developmental Biology (CDEV) Subgroup is hosting a week of virt
 
 **If you are interested in presenting your work (through a ~15 min virtual talk or a ~5 min poster presentation), please submit your abstract here by January 5, 2024 [here](https://forms.gle/TMDHqLGHhQKXrWpSA).** Times have been selected to capture a wide range of timezones. We hope you participate!
 
-<img src="cdevfest.jpg" alt="Neon image with drawings of cells and equations and the words SMB Cell Dev Festival" style="display: block; margin-left: auto; margin-right: auto; width: 35%;" />
+<!--<img src="cdevfest.jpg" alt="Neon image with drawings of cells and equations and the words SMB Cell Dev Festival" style="display: block; margin-left: auto; margin-right: auto; width: 35%;" />-->
 
+<p align="center"><img src="/uploads/blog_images/slides/cdevfest.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 35%;" /></p>
