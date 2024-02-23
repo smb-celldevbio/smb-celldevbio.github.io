@@ -3,7 +3,7 @@ layout: page
 title: Virtual Cell and Developmental Biology Festival Week
 ---
 
-**March 18-21, 2024, Cyberspace **
+**March 18-21, 2024, Cyberspace**
 
 **For talk abstracts and the current schedule, click [here](https://docs.google.com/document/d/1JlErj2BVuqxfBAOc5Oeu95SUFubgS4RGkUHGdAuBB6Q/edit?usp=sharing).**
 
