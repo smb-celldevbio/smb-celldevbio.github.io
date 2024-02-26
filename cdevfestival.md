@@ -39,6 +39,7 @@ Your CDEV Subgroup Officers
 - Adam MacLean (University of Southern California)
 - Ander Movilla Miangolarra (John Innes Centre)
 - Eleni Papafilippou (University of Cambridge)
+- Shibashis Paul (University of Tennessee, Knoxville)
 - Marc Roussel (University of Lethbridge)
 - Nika Shakiba (University of British Columbia)
 - Tracy Stepien (University of Florida)
