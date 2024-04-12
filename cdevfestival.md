@@ -7,7 +7,7 @@ title: Virtual Cell and Developmental Biology Festival Week
 
 **For talk abstracts and the event schedule, click [here](https://docs.google.com/document/d/1JlErj2BVuqxfBAOc5Oeu95SUFubgS4RGkUHGdAuBB6Q/edit?usp=sharing).**
 
-In March 2024, we held our first virtual Cell and Development Festival! This interdisciplinary mini-conference was hosted by the SMB Cell and Developmental Biology (CDEV) Subgroup and featured a week of virtual minisymposia highlighting research in our community, plenary presentations, panels, and dicussions. Times were selected to capture a wide range of timezones. Thank you to all our presenters and to all those who participated! 
+In March 2024, we held our first virtual Cell and Development Festival. This interdisciplinary mini-conference was hosted by the SMB Cell and Developmental Biology (CDEV) Subgroup and featured a week of virtual minisymposia highlighting research in our community, plenary presentations, panels, and dicussions. Times were selected to capture a wide range of timezones. Thank you to all our presenters and to all those who participated! 
 
 **Recordings of the presentations are available on YouTube here:**
 - [Session 1: Veronica Ciocanel, Amanda Alexander, Tracy Stepien, Leah Edelstein-Keshet](https://www.youtube.com/watch?v=01uJydt3cnc)
