@@ -5,7 +5,7 @@ title: Subgroup Initiatives
 
 ## Virtual Cell and Development Festival Week
 
-The Cell and Developmental Biology Subgroup is planning to host a week of virtual minisymposia highlighting research in our community and professional development resources in March 2024. For more information, see the website [here](https://smb-celldevbio.github.io/cdevfestival/).
+The Cell and Developmental Biology Subgroup hosted its first virtual mini-conference (a week of virtual mini-symposia highlighting research in our community, plenary talks, and professional-development resources) in March 2024. For more information, see the website [here](https://smb-celldevbio.github.io/cdevfestival/).
 
 
 ## Discussion Group: Modeling Cell Development and Regeneration 
