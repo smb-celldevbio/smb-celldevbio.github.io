@@ -9,13 +9,14 @@ title: Virtual Cell and Developmental Biology Festival Week
 
 In March 2024, we held our first virtual Cell and Development Festival. This interdisciplinary mini-conference was hosted by the SMB Cell and Developmental Biology (CDEV) Subgroup and featured a week of virtual minisymposia highlighting research in our community, plenary presentations, panels, and dicussions. Times were selected to capture a wide range of timezones. Thank you to all our presenters and to all those who participated! 
 
+<!--
 **Recordings of the presentations are available on YouTube here:**
 - [Session 1: Veronica Ciocanel, Amanda Alexander, Tracy Stepien, Leah Edelstein-Keshet](https://www.youtube.com/watch?v=01uJydt3cnc)
 - [Session 2: Marc Roussel, Bradly Alicea, Elizabeth Trofimenkoff, Robyn Shuttleworth, Steven ten Holder](https://www.youtube.com/watch?v=5zO-DE03ix8)
 - [Session 3: Ander Movilla Miangolarra, Adam MacLean, Shibashis Paul, Ruth Baker](https://www.youtube.com/watch?v=xQUQRvP9hdo)
 - [Session 4: Raj Hossein, Eleni Papafilippou, Diana Khoromskaia, Katerina Kaouri, Thomas Woolley](https://www.youtube.com/watch?v=fq2LYPHIQf8)
 - [Session 5: Gonca Erdemci-Tandogan, Andrew Krause, Maria Abou Chakra, Nika Shakiba, Golnaz Karoubi, David Romero Torres](https://www.youtube.com/watch?v=UTQuzNblX4A)
-
+-->
 
 Sincerely,
 Your CDEV Subgroup Officers
