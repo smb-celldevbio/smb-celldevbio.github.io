@@ -11,11 +11,12 @@ Please email us with any suggestions at [smbcelldevbio@gmail.com](smbcelldevbio@
 
 Thank you,
 
-**Chair:** [Alexandria Volkening](https://www.alexandriavolkening.com) (Purdue University, USA)
+**Chair:** [Keisha Cook](https://drcookdoesmath.weebly.com/) (Clemson University, USA)
 
-**Secretary:** Alessandra Bonfanti (Politecnico di Milano, Italy)
+**Secretary:** [Anna Nelson](https://annacnelson.github.io/) (Duke University, USA)
 
 **Committee Members:**
-- [Maria Abou Chakra](http://individual.utoronto.ca/abouchakra/) (University of Toronto, Canada)
-- [Carina Dunlop](https://www.surrey.ac.uk/people/carina-dunlop) (University of Surrey, UK)
-- [Tian Hong](http://www.tianhonglab.org/) (University of Tennessee, Knoxville, USA)
+- [Alessandra Bonfanti](https://scholar.google.com/citations?user=XeuewAEAAAAJ&hl=it) (Politecnico di Milano, Italy)
+- [Giulia Celora](https://sites.google.com/view/giulia-laura-celora) (University College London, UK)
+- [Kelsey Gasior](https://www.kgasior.info/) (University of Notre Dame, USA)
+- [Qixuan Wang](https://sites.google.com/ucr.edu/qixuanwang/) (University of California, Riverside, USA)
