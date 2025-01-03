@@ -17,6 +17,6 @@ Thank you,
 
 **Committee Members:**
 - [Alessandra Bonfanti](https://scholar.google.com/citations?user=XeuewAEAAAAJ&hl=it) (Politecnico di Milano, Italy)
-- [Giulia Celora](https://sites.google.com/view/giulia-laura-celora) (University College London, UK)
+- [Giulia Celora](https://sites.google.com/view/giulia-laura-celora) (University of Oxford, UK)
 - [Kelsey Gasior](https://www.kgasior.info/) (University of Notre Dame, USA)
 - [Qixuan Wang](https://sites.google.com/ucr.edu/qixuanwang/) (University of California, Riverside, USA)
