@@ -13,7 +13,7 @@ In this blog post, we feature an Interview with Dr. Simon Martina-Perez. Simon i
 <!--<p align="center"><img src="/uploads/blog_images/martinson/martinson.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>-->
 <!--<p align="center"><i>Hannah (middle) with Veronica Ciocanel (left) and Anna Nelson (right) at SMB 2023</i></p>-->
 
-<p align="center"><img src="/uploads/blog_images/martina_perez/Simon_Blog.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
+<p align="center"><img src="/uploads/blog_images/martina_perez/simon_photo.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
 <!--<p align="center"><i>Photo credit: Duncan Martinson</i></p>-->
 
 **When did you first become interested in mathematics and biology?**
