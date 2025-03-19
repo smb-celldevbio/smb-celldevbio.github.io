@@ -2,6 +2,13 @@
 layout: page
 title: Subgroup Initiatives
 ---
+## SMB Annual Meeting 2025: Flexible support grants
+
+We are inviting applications from students (undergraduate or graduate) and postdoctoral fellows for a few travel or care grants to attend the 2025 SMB Annual Meeting (https://2025.smb.org/). We anticipate awards will be around $250. You do not need to be a SMB or CDEV member to receive this award! 
+
+**Applications are due April 15, 2025.**
+
+Application Form: https://forms.gle/ij3SArY1ZpbyX88Z6  
 
 ## Virtual Cell and Development Festival Week
 
