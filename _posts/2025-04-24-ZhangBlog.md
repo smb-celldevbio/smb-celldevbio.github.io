@@ -9,7 +9,7 @@ comments: true
 
 In this blog post, we feature Dr. Ying Zhang. Ying is a Postdoctoral Research Associate in the Copos Lab at Northeastern University, jointly appointed in the Departments of Mathematics and Biology. She received her Ph.D. in Mathematics from Boston University, advised by Sam Isaacson. Her work focuses on developing numerical methods for partial differential equations, stochastic and mechanics-based multi-scale modeling of cellular and developmental processes in biology.
 
-<p align="center"><img src="/uploads/blog_images/zhang/Zhang_headshot.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
+<p align="center"><img src="/uploads/blog_images/zhang/Zhang_headshot.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
 
