@@ -25,7 +25,15 @@
       <span class="sr-only">Facebook</span>
     </a>
   {% endif %}
-
+  
+  {% if site.share-links-active.bluesky %}
+    <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}"
+      class="btn btn-social-icon btn-bluesky" title="Share on Bluesky">
+      <span class="fab fa-fw fa-twitter" aria-hidden="true"></span>
+      <span class="sr-only">Bluesky</span>
+    </a>
+  {% endif %}
+  
   {% if site.share-links-active.linkedin %}
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-linkedin" title="Share on LinkedIn">
