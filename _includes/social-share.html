@@ -27,7 +27,7 @@
   {% endif %}
   
   {% if site.share-links-active.bluesky %}
-    <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}&{{ page.url | absolute_url | url_encode }}"
+    <a href="https://bsky.app/intent/compose?text={{ page.title | url_encode }}+{{ page.url | absolute_url | url_encode }}"
       class="btn btn-social-icon btn-bluesky" title="Share on Bluesky" target="_blank">
     <span aria-hidden="true" class="share-icon">
       <svg xmlns="http://www.w3.org/2000/svg" 
