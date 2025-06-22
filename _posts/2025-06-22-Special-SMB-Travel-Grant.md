@@ -30,7 +30,7 @@ Rebecca Crossley is a PhD student studying mathematical biology at the Universit
 
 <u><i>A passion of mine.</i></u> I love camping, going on hikes and all things outdoors. As such, I still to this day help over 150 people a year complete their Duke of Edinburgh's Awards by taking them away on camping trips!
 
-<u><i>Where can people find you at SMB 2025?</i></u> I will be presenting my work on Thursday afternoon (details). For the rest, you will probably bump into me while running around. I'll be trying to soak up every ounce of interesting knowledge I can, and that means you often see me shooting past you in a corridor between talks - but don't worry, I've always got time for a chat, too! 
+<u><i>Where can people find you at SMB 2025?</i></u> I will be presenting my work on Thursday afternoon (<a href="https://2025.smb.org/CDEV/CT02-CDEV-01.html">abstract</a>). For the rest, you will probably bump into me while running around. I'll be trying to soak up every ounce of interesting knowledge I can, and that means you often see me shooting past you in a corridor between talks - but don't worry, I've always got time for a chat, too! 
 Outside of conference hours: exploring... Once a long hard day of thinking and learning is done, I love to go outside and get fresh air! This is especially true when I am visiting new places, and as a foodie you'll probably find me in a fair few restaurants trying out the local cuisine and celebrating my birthday whilst we are away!
 
 
