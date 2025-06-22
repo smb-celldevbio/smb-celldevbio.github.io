@@ -12,7 +12,7 @@ In this special blog post, we are excited to feature and celebrate the awardees 
 <p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" /></p>
 <p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, and Maryam Alka </i></p>
 
-<p align="center">**Gulsemay Yigit**</p>
+<p><b>Gulsemay Yigit</b></p>
 
 Gulsemay Yigit is a postdoctoral researcher at the University of British Columbia, specializing in mathematical and computational biology, numerical analysis, and their applications to experimental sciences. She obtained her PhD in Mathematical Engineering from Yildiz Technical University, Istanbul.
 
@@ -22,7 +22,7 @@ Gulsemay Yigit is a postdoctoral researcher at the University of British Columbi
 
 *Where can people find you at SMB 2025?* You can find me at the session MS07 - CDEV-06 Part 2 of 2: Modeling the Role of Geometry and Topology in Shaping Cell Behavior, Function, and Tissue Patterns (Part 2) on Thursday, July 17 at 4:00pm (<a href="https://2025.smb.org/CDEV/MS-CDEV-06-Part-2.html">abstract</a>).
 
-<p align="center">**Rebecca Crossley**</p>
+<p><b>Rebecca Crossley</b></p>
 
 Rebecca Crossley is a PhD student studying mathematical biology at the University of Oxford under the supervision of Professors Ruth Baker and Philip Maini. She holds an MSci in Mathematics from the University of Bristol, and is passionate about applying mathematical and statistical techniques to help understand complex biological systems and improve health outcomes. 
 
@@ -34,7 +34,7 @@ Rebecca Crossley is a PhD student studying mathematical biology at the Universit
 Outside of conference hours: exploring... Once a long hard day of thinking and learning is done, I love to go outside and get fresh air! This is especially true when I am visiting new places, and as a foodie you'll probably find me in a fair few restaurants trying out the local cuisine and celebrating my birthday whilst we are away!
 
 
-<p align="center">**Maryam Alka**</p>
+<p><b>**Maryam Alka**</b></p>
 
 Maryam Alka is a PhD Researcher in Applied Mathematics at the University of Birmingham, funded by PTDF Nigeria. Maryam leverages her strong background in mathematical oncology and data science to study tumour dynamics under hypoxia and chemotherapy. She holds an MSc in Pure and Applied Mathematics and has extensive teaching and industry experience.
 
