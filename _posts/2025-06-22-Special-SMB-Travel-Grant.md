@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2025 SMB CDEV Travel Grant
-subtitle: 
+title: Early Career Researchers at SMB 2025
+subtitle: CDEV Travel Grant Awardees
 gh-repo: daattali/beautiful-jekyll
 tags: [interview]
 comments: false
