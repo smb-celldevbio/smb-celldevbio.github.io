@@ -9,7 +9,7 @@ comments: false
 
 In this special blog post, we are excited to feature and celebrate the awardees of the 2025 CDEV Subgroup travel grant to attend SMB 2025. Be sure to check out their work in Edmonton! 
 
-<p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" /></p>
+<p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></p>
 <p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, and Maryam Alka </i></p>
 
 <p><b>Gulsemay Yigit</b></p>
