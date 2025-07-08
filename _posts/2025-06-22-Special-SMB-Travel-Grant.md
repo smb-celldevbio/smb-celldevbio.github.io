@@ -20,7 +20,7 @@ Gulsemay Yigit is a postdoctoral researcher at the University of British Columbi
 
 <u><i>A passion of mine.</i></u> Outside of work, I am passionate about swimming and practising yoga. I also enjoy spending time in nature and painting. I love reading books from almost every field, especially philosophy and world literature.
 
-<u><i>Where can people find you at SMB 2025?</i></u> You can find me at the session MS07 - CDEV-06 Part 2 of 2: Modeling the Role of Geometry and Topology in Shaping Cell Behavior, Function, and Tissue Patterns (Part 2) on Thursday, July 17 at 4:00pm (<a href="https://2025.smb.org/CDEV/MS-CDEV-06-Part-2.html">abstract</a>).
+<u><i>Where can people find you at SMB 2025?</i></u> You can find me at the session MS07 - CDEV-06 Part 2 of 2: Modeling the Role of Geometry and Topology in Shaping Cell Behavior, Function, and Tissue Patterns (Part 2) on Thursday, July 17 at 4:00 pm (<a href="https://2025.smb.org/CDEV/MS-CDEV-06-Part-2.html">abstract</a>).
 
 <p><b>Rebecca Crossley</b></p>
 
