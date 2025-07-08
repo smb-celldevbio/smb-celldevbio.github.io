@@ -10,7 +10,7 @@ comments: false
 In this special blog post, we are excited to feature and celebrate the awardees of the 2025 CDEV Subgroup travel grant to attend SMB 2025. Be sure to check out their work in Edmonton! 
 
 <p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></p>
-<p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, and Maryam Alka </i></p>
+<p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, Maryam Alka and Ruby Nixson. </i></p>
 
 <p><b>Gulsemay Yigit</b></p>
 
@@ -43,4 +43,14 @@ Maryam Alka is a PhD Researcher in Applied Mathematics at the University of Birm
 <u><i>A passion of mine.</i></u> Cooking is my passion and my go-to stress-reliever, especially when my research gets intense! I love whipping up spicy Nigerian dishes to unwind. Fun fact: During a particularly tough week of modelling tumour dynamics, I perfected a recipe that even my husband couldn’t resist!
 
 <u><i>Where can people find you at SMB 2025?</i></u> Come and check out my poster on “Mathematical Modeling of Tumour Dynamics in Hypoxic Environment” during the poster session on Monday (<a href="https://2025.smb.org/CDEV/PS01-CDEV-01.html">abstract</a>). I’ll be available for discussions near the CDEV subgroup section. Look forward to connecting!
+
+<p><b>Ruby Nixson</b></p>
+
+Ruby Nixson is a PhD student in Mathematical Biology at the University of Oxford, working under the supervision of Professors Helen Byrne, Philip Maini and Joe Pitt-Francis. She holds an MMath in mathematics from the University of Oxford, and her current work focuses on comparisons between ODE and PDE models for tumour dynamics.
+
+<u><i>Research Summary.</i></u> My current work focuses on comparisons between ODE and PDE models of the mitotic cell cycle of cancer cells. I leverage analytical techniques to link these distinct modelling approaches through key parameters and expected behaviour. I’m currently evaluating the effectiveness of these models to describe the impact of cell cycle heterogeneity on fractionated radiotherapy by fitting parameters to experimental data. I’m also interested in the impact of hypoxia and other cellular stresses on the regulatory processes controlling the cell cycle.
+
+<u><i>A passion of mine.</i></u> I love crocheting and knitting! As soon as I get home from a day of PhD work, you’ll most likely find me on the sofa with my latest project in hand and cheesy reality shows playing in the background.
+
+<u><i>Where can people find you at SMB 2025?</i></u> I’ll be presenting my latest work on structured-PDE modelling of anti-tumour therapies in paediatric glioma in the CT01 - ONCO-01 ONCO Subgroup Contributed Talks session, on Tuesday afternoon (<a href="https://2025.smb.org/ONCO/CT01-ONCO-02.html">abstract</a>). Otherwise, you’ll likely find me in the other ONCO sessions! 
 
