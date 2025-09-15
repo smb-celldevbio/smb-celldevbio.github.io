@@ -7,7 +7,7 @@ title: Subgroup Initiatives
 
 We are excited to offer a two-part job preparation series for job applicants seeking academic and industry jobs. To help candidates with this process, we will be hosting an Interviewing 101 webinar, as well as a practice opportunity through mock interviews. Whether you are applying for postdoctoral positions, tenure-track positions, or jobs in industry, we hope to prepare you for what the interviewing process is like. 
 
-To sign up, please fill out by October the form [here](https://forms.gle/DNAvdh8JKnMCN4n67)
+To sign up, please fill out the form [here](https://forms.gle/DNAvdh8JKnMCN4n67)
 
 ## Virtual Cell and Development Festival Week
 
