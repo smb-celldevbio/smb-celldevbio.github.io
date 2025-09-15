@@ -2,15 +2,10 @@
 layout: page
 title: Subgroup Initiatives
 ---
-## Interviewing 101 webinar
-
-We are excited to offer a two-part job preparation series for job applicants seeking academic and industry jobs. To help candidates with this process, we will be hosting an Interviewing 101 webinar, as well as the opportunity to practice interviewing through mock interviews. Whether you are applying for postdoctoral positions, tenure-track positions, or jobs in industry, we hope to prepare applicants on what the interviewing process is like and help them hone their interview skills. 
-
-To sign up for this webinar, please fill out the form [here](https://forms.gle/DNAvdh8JKnMCN4n67) by **October 1, 2025**. 
  
 ## SMB Annual Meeting 2025: Flexible support grants
 
-We are inviting applications from students (undergraduate or graduate) and postdoctoral fellows for a few travel or care grants to attend the 2025 [SMB Annual Meeting](https://2025.smb.org/). We anticipate awards will be around $250. You do not need to be a SMB or CDEV member to receive this award! 
+Ciao. We are inviting applications from students (undergraduate or graduate) and postdoctoral fellows for a few travel or care grants to attend the 2025 [SMB Annual Meeting](https://2025.smb.org/). We anticipate awards will be around $250. You do not need to be a SMB or CDEV member to receive this award! 
 
 **Applications are due April 15, 2025.**
 Application Form [here](https://forms.gle/ij3SArY1ZpbyX88Z6).  
