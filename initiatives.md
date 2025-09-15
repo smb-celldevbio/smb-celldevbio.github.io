@@ -7,8 +7,8 @@ title: Subgroup Initiatives
 
 We are excited to offer a two-part job preparation series for job applicants seeking academic and industry jobs. To help candidates with this process, we will be hosting an Interviewing 101 webinar, as well as the opportunity to practice interviewing through mock interviews. Whether you are applying for postdoctoral positions, tenure-track positions, or jobs in industry, we hope to prepare applicants on what the interviewing process is like and help them hone their interview skills. 
 
-**Applications are due April 15, 2025.**
-Application Form [here](https://forms.gle/ij3SArY1ZpbyX88Z6).  
+
+To sign up for this webinar, please fill out the form [here](https://forms.gle/DNAvdh8JKnMCN4n67) by **October 1, 2025**. 
 
 ## Virtual Cell and Development Festival Week
 
