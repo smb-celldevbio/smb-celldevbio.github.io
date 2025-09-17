@@ -23,6 +23,7 @@ I'm interested in biological questions that explore how complex global patterns 
 <p><em>"How do pigment cells in organisms like zebrafish interact to produce skin patterns that are both diverse and robust? Or how do ferns develop their diverse shapes at different developmental stages?"</em>em> </p>
 This leads to broader inquiries about local growth rules, mechanical constraints, and the principles of self-organization and spatial regulation in developmental systems. To address these questions, I use a combination of mathematical modeling and topological data analysis, which allows me to quantify and compare complex biological shapes and structures. My broader goal is to develop models that don’t just replicate biological phenomena but also help reveal the underlying organizational principles that operate across different biological scales. You can explore my most recent research work on quantifying zebrafish skin patterns using a topological data analysis at the link <a href="arxiv.org/abs/2509.11023">here</a>.
 
+
 **What mathematical and computational tools do you find useful in your work?**
 Since my research focuses on understanding the dynamics of biological and social complex systems, I have explored a wide range of mathematical tools to simulate, analyze, and visualize such systems. This includes numerical methods for solving ODEs and PDEs to capture time-evolving processes, parameter inference techniques to fit models to experimental and empirical data, concepts from dynamical systems theory for stability analysis, and data analysis approaches to process experimental data. On the coding side, I use general-purpose languages like Python and MATLAB for custom modeling and data analysis, along with domain-specific modeling environments as needed. That being said, I’m always open to new tools and approaches if they can enhance my ability to better understand complex systems.
 
@@ -31,6 +32,7 @@ One of the most rewarding aspects of my work is its interdisciplinary nature. I 
 
 **What do you like to do in your spare time outside of work?**
 I enjoy cooking as a way to unwind after a long day at work. I also like hiking whenever I get the chance. Spending time in nature helps me reset and gives me space to think, away from screens and equations. Both activities give me a healthy balance and often help me return to work with fresh ideas.
+
 **Any advice for someone considering a career in mathematical biology?**
 You will be translating between two languages where neither side thinks the other one makes sense, but that’s the fun of it! 
 <p><em>So, don’t be afraid of messy data, weird acronyms, or the occasional moments of realizing that biology doesn’t nicely follow equations. That just means that you are on a track that is really worth pursuing! </em></p>
