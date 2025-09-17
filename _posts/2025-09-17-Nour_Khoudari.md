@@ -10,7 +10,7 @@ comments: false
 In this blog post, we feature <a href="sites.google.com/view/nour-khoudari">Dr. Nour Khoudari</a>. She is a Golomb Visiting Assistant Professor in the Department of Mathematics at Purdue University, mentored by Professor Alexandria Volkening. Nour received her Ph.D. in Mathematics from Temple University, advised by Prof. Benjamin Seibold, and is the recipient of the 2025 AMS Ivo and Renata Babuška Thesis Prize. Her current research focuses on the modeling and analysis of complex biological systems. 
 
 
-<p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></p>
+<p align="center"><img src="/uploads/blog_images/Khoudari/Khoudari_SMB_blog.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" /></p>
 <p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, Maryam Alka and Ruby Nixson. </i></p>
 
 **When did you first become interested in mathematics and biology?**
