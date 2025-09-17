@@ -1,56 +1,37 @@
 ---
 layout: post
-title: Early Career Researchers at SMB 2025
-subtitle: CDEV Travel Grant Awardees
+title: Interview with Dr Nour Khoudari
+subtitle: Golomb Visiting Assistant Professor
 gh-repo: daattali/beautiful-jekyll
 tags: [interview]
 comments: false
 ---
 
-In this special blog post, we are excited to feature and celebrate the awardees of the 2025 CDEV Subgroup travel grant to attend SMB 2025. Be sure to check out their work in Edmonton! 
+In this blog post, we feature <a href="sites.google.com/view/nour-khoudari">Dr. Nour Khoudari</a>. She is a Golomb Visiting Assistant Professor in the Department of Mathematics at Purdue University, mentored by Professor Alexandria Volkening. Nour received her Ph.D. in Mathematics from Temple University, advised by Prof. Benjamin Seibold, and is the recipient of the 2025 AMS Ivo and Renata Babuška Thesis Prize. Her current research focuses on the modeling and analysis of complex biological systems. 
+
 
 <p align="center"><img src="/uploads/blog_images/2025travelgrant/blog photo travel grant.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 100%;" /></p>
 <p align="center"><i>Awardees of the 2025 SMB CDEV travel grant. From left to right: Gulsemay Yigit, Rebecca Crossley, Maryam Alka and Ruby Nixson. </i></p>
 
-<p><b>Gulsemay Yigit</b></p>
+**When did you first become interested in mathematics and biology?**
+My interest in mathematics and biology grew from a fascination with complex systems. Particularly, how individual agents interact to produce large-scale patterns. I remember watching a flock of birds twisting and turning in perfect synchronization during a family hike as a kid. There was no leader, no signal, yet somehow, they were all moving as one. That moment stuck with me, and much later I realized it was a perfect example of how simple local rules can generate beautiful global patterns. Fast forward to graduate school, I got interested in the mathematical modeling of social systems across different scales, specifically studying how traffic waves emerge from the collective behavior of individual drivers. What surprised me was how closely these dynamics mirrored those of biological systems: pigment cells interacting to form skin patterns, cells communicating through signaling networks, and birds flocking in swarms. I began exploring mathematical biology more seriously during my postdoc and now I’m hooked! For this, I am very grateful to my mentor Alexandria Volkening. The transition from modeling social behavior to studying biological systems felt natural, since both domains require understanding how local interactions scale up to global phenomena. 
 
-Gulsemay Yigit is a postdoctoral researcher at the University of British Columbia, specialising in mathematical and computational biology, numerical analysis, and their applications to experimental sciences. She obtained her PhD in Mathematical Engineering from Yildiz Technical University, Istanbul.
+**Was the decision to do a Ph.D. an obvious and easy choice?**
+It was a decision I arrived at through experience rather than certainty. I have always been curious and drawn to mathematical problems, which led me to pursue a degree in mathematics. Over time, I began to realize that the problems that excited me most weren’t the ones with neat solutions at the back of the textbook. Instead, they were open-ended, messy on that couldn’t be fully explored in a classroom alone. As I explored the research environment, I realised I enjoyed the process of pushing boundaries and contributing to new knowledge and pursuing a Ph.D. felt like a natural next step. 
 
-<u><i>Research Summary.</i></u> My research lies at the intersection of theoretical applied mathematics, computational biology, and numerical analysis, focusing on mathematical models for the spatiotemporal dynamics of small GTPases. These molecular switches regulate crucial cellular signalling such as growth, differentiation, motility, and survival, and are central to biomedical problems. I am exploring how cross-diffusion, geometry, and domain size influence pattern formation in these enzymes by combining bulk-surface models and thin-layer approximations. My framework also includes RhoA-GEF-H1-myosin network, unravelling the effects of diffusion on the temporal dynamical system characterised by different temporal behaviour.
+**What are the main biological research questions that you are interested in?**
+I'm interested in biological questions that explore how complex global patterns emerge from local, agent-to-agent interactions in biological systems. For example:
+<p><em>"How do pigment cells in organisms like zebrafish interact to produce skin patterns that are both diverse and robust? Or how do ferns develop their diverse shapes at different developmental stages?"</em>em> </p>
+This leads to broader inquiries about local growth rules, mechanical constraints, and the principles of self-organization and spatial regulation in developmental systems. To address these questions, I use a combination of mathematical modeling and topological data analysis, which allows me to quantify and compare complex biological shapes and structures. My broader goal is to develop models that don’t just replicate biological phenomena but also help reveal the underlying organizational principles that operate across different biological scales. You can explore my most recent research work on quantifying zebrafish skin patterns using a topological data analysis at the link <a href="arxiv.org/abs/2509.11023">here</a>.
 
-<u><i>A passion of mine.</i></u> Outside of work, I am passionate about swimming and practising yoga. I also enjoy spending time in nature and painting. I love reading books from almost every field, especially philosophy and world literature.
+**What mathematical and computational tools do you find useful in your work?**
+Since my research focuses on understanding the dynamics of biological and social complex systems, I have explored a wide range of mathematical tools to simulate, analyze, and visualize such systems. This includes numerical methods for solving ODEs and PDEs to capture time-evolving processes, parameter inference techniques to fit models to experimental and empirical data, concepts from dynamical systems theory for stability analysis, and data analysis approaches to process experimental data. On the coding side, I use general-purpose languages like Python and MATLAB for custom modeling and data analysis, along with domain-specific modeling environments as needed. That being said, I’m always open to new tools and approaches if they can enhance my ability to better understand complex systems.
 
-<u><i>Where can people find you at SMB 2025?</i></u> You can find me at the session MS07 - CDEV-06 Part 2 of 2: Modeling the Role of Geometry and Topology in Shaping Cell Behavior, Function, and Tissue Patterns (Part 2) on Thursday, July 17 at 4:00 pm (<a href="https://2025.smb.org/CDEV/MS-CDEV-06-Part-2.html">abstract</a>).
+**What makes you passionate about your work?**
+One of the most rewarding aspects of my work is its interdisciplinary nature. I truly enjoy collaborating with biologists, engineers, and researchers from diverse backgrounds. I also appreciate the challenge and creativity involved in making sense of complex living systems. Biology is full of dynamic processes that often appear chaotic or unpredictable, and I find it incredibly rewarding to use mathematical tools to uncover structure and meaning within that complexity. Those moments when theory translates into insight, and insight into impact, are what keep me passionate about this field. It’s a reminder that mathematics is not just abstract, but a language that bridges different disciplines.
 
-<p><b>Rebecca Crossley</b></p>
-
-Rebecca Crossley is a PhD student studying mathematical biology at the University of Oxford under the supervision of Professors Ruth Baker and Philip Maini. She holds an MSci in Mathematics from the University of Bristol, and is passionate about applying mathematical and statistical techniques to help understand complex biological systems and improve health outcomes. 
-
-<u><i>Research Summary.</i></u> I am interested in combining mechanistic modelling and data-driven inference to understand systems biology. My doctoral research involves robustly deriving continuum representations of collective cell migration into the extracellular matrix from their underlying individual-based descriptions. The suite of models I have developed focuses on understanding the role of phenotypic heterogeneity during collective invasion and how changes in surrounding cells or the environment will impact the cells’ behaviours. I also have wider interests in understanding travelling wave dynamics, and my current research focuses on using biologically-informed neural networks (BINNs) to identify governing equations from data generated by biological systems. 
-
-<u><i>A passion of mine.</i></u> I love camping, going on hikes and all things outdoors. As such, I still to this day help over 150 people a year complete their Duke of Edinburgh's Awards by taking them away on camping trips!
-
-<u><i>Where can people find you at SMB 2025?</i></u> I will be presenting my work on Thursday afternoon (<a href="https://2025.smb.org/CDEV/CT02-CDEV-01.html">abstract</a>). For the rest, you will probably bump into me while running around. I'll be trying to soak up every ounce of interesting knowledge I can, and that means you often see me shooting past you in a corridor between talks - but don't worry, I've always got time for a chat, too! 
-Outside of conference hours: exploring... Once a long hard day of thinking and learning is done, I love to go outside and get fresh air! This is especially true when I am visiting new places, and as a foodie you'll probably find me in a fair few restaurants trying out the local cuisine and celebrating my birthday whilst we are away!
-
-
-<p><b>Maryam Alka</b></p>
-
-Maryam Alka is a PhD Researcher in Applied Mathematics at the University of Birmingham, funded by PTDF Nigeria. Maryam leverages her strong background in mathematical oncology and data science to study tumour dynamics under hypoxia and chemotherapy. She holds an MSc in Pure and Applied Mathematics and has extensive teaching and industry experience.
-
-<u><i>Research Summary.</i></u> My research investigates tumour dynamics under hypoxic stress and chemotherapy in triple-negative breast cancer (TNBC). I developed an ODE-based framework, exploring various growth laws, with the Gompertzian model proving most effective in capturing treatment effects with Paclitaxel and Cobalt Chloride. Using Bayesian estimation and sensitivity analysis, I assess hypoxia-drug synergy, informing dosage and scheduling optimisation. At SMB 2025 in Edmonton, my poster will showcase this framework, bridging experimental oncology and mathematical modelling to refine predictive tools for hypoxia-driven cancers, enhancing therapeutic strategies through data-driven insights.
-
-<u><i>A passion of mine.</i></u> Cooking is my passion and my go-to stress-reliever, especially when my research gets intense! I love whipping up spicy Nigerian dishes to unwind. Fun fact: During a particularly tough week of modelling tumour dynamics, I perfected a recipe that even my husband couldn’t resist!
-
-<u><i>Where can people find you at SMB 2025?</i></u> Come and check out my poster on “Mathematical Modeling of Tumour Dynamics in Hypoxic Environment” during the poster session on Monday (<a href="https://2025.smb.org/CDEV/PS01-CDEV-01.html">abstract</a>). I’ll be available for discussions near the CDEV subgroup section. Look forward to connecting!
-
-<p><b>Ruby Nixson</b></p>
-
-Ruby Nixson is a PhD student in Mathematical Biology at the University of Oxford, working under the supervision of Professors Helen Byrne, Philip Maini and Joe Pitt-Francis. She holds an MMath in mathematics from the University of Oxford, and her current work focuses on comparisons between ODE and PDE models for tumour dynamics.
-
-<u><i>Research Summary.</i></u> My current work focuses on comparisons between ODE and PDE models of the mitotic cell cycle of cancer cells. I leverage analytical techniques to link these distinct modelling approaches through key parameters and expected behaviour. I’m currently evaluating the effectiveness of these models to describe the impact of cell cycle heterogeneity on fractionated radiotherapy by fitting parameters to experimental data. I’m also interested in the impact of hypoxia and other cellular stresses on the regulatory processes controlling the cell cycle.
-
-<u><i>A passion of mine.</i></u> I love crocheting and knitting! As soon as I get home from a day of PhD work, you’ll most likely find me on the sofa with my latest project in hand and cheesy reality shows playing in the background.
-
-<u><i>Where can people find you at SMB 2025?</i></u> I’ll be presenting my latest work on structured-PDE modelling of anti-tumour therapies in paediatric glioma in the CT01 - ONCO-01 ONCO Subgroup Contributed Talks session, on Tuesday afternoon (<a href="https://2025.smb.org/ONCO/CT01-ONCO-02.html">abstract</a>). Otherwise, you’ll likely find me in the other ONCO sessions! 
-
+**What do you like to do in your spare time outside of work?**
+I enjoy cooking as a way to unwind after a long day at work. I also like hiking whenever I get the chance. Spending time in nature helps me reset and gives me space to think, away from screens and equations. Both activities give me a healthy balance and often help me return to work with fresh ideas.
+**Any advice for someone considering a career in mathematical biology?**
+You will be translating between two languages where neither side thinks the other one makes sense, but that’s the fun of it! 
+<p><em>So, don’t be afraid of messy data, weird acronyms, or the occasional moments of realizing that biology doesn’t nicely follow equations. That just means that you are on a track that is really worth pursuing! </em></p>
