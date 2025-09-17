@@ -7,7 +7,7 @@ tags: [interview]
 comments: false
 ---
 
-In this blog post, we feature <a href="sites.google.com/view/nour-khoudari">Dr. Nour Khoudari</a>. She is a Golomb Visiting Assistant Professor in the Department of Mathematics at Purdue University, mentored by Professor Alexandria Volkening. Nour received her Ph.D. in Mathematics from Temple University, advised by Prof. Benjamin Seibold, and is the recipient of the 2025 AMS Ivo and Renata Babuška Thesis Prize. Her current research focuses on the modeling and analysis of complex biological systems. 
+In this blog post, we feature <a href="https://sites.google.com/view/nour-khoudari">Dr. Nour Khoudari</a>. She is a Golomb Visiting Assistant Professor in the Department of Mathematics at Purdue University, mentored by Professor Alexandria Volkening. Nour received her Ph.D. in Mathematics from Temple University, advised by Prof. Benjamin Seibold, and is the recipient of the 2025 AMS Ivo and Renata Babuška Thesis Prize. Her current research focuses on the modeling and analysis of complex biological systems. 
 
 
 <p align="center"><img src="/uploads/blog_images/Khoudari/Khoudari_SMB_blog.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
