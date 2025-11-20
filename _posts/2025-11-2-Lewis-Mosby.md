@@ -43,14 +43,17 @@ I enjoy working at the interface between two very different fields of research. 
 
   <p style="flex: 1;">
     
-<b>What do you like to do in your spare time outside of work?</b><br><br>
+<b>What do you like to do in your spare time outside of work?</b>
+<br>
+<br>
 In my spare time, I love playing games of all varieties (board, computer, card), doing art, and travelling whenever I can. I think it’s important to have a good escape from the tricky problems we’re trying to solve at work, and I often find that my best ideas pop up out of nowhere while I’m thinking about something else!
-<br><br>
-<b>Any advice for someone considering a career in mathematical biology?</b>
-<br><br>
-Communication and presentation skills are a must for any career in science, but I think that working at the interface between two very different fields requires you to be able to really break down your work into the key messages you’re trying to convey and then explain them clearly to non-experts. The same is also true in reverse; it can be tricky to be exposed to high-level work in a field that you didn’t study at university
+
   </p>
 
 </div>
+
+**Any advice for someone considering a career in mathematical biology?**
+
+Communication and presentation skills are a must for any career in science, but I think that working at the interface between two very different fields requires you to be able to really break down your work into the key messages you’re trying to convey and then explain them clearly to non-experts. The same is also true in reverse; it can be tricky to be exposed to high-level work in a field that you didn’t study at university.
 
 <p><em>I think that the kinds of biophysical problems at the forefront of science today can only really be answered by people from different disciplines coming together and helping each other!</em></p>
