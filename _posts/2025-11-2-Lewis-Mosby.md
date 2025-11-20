@@ -28,17 +28,19 @@ I think the most valuable skill I’ve learned is how to extract key information
 I enjoy working at the interface between two very different fields of research. This allows me to constantly learn and/or apply the techniques I’ve learned throughout my career in novel ways. For example, during my Ph.D., I used code designed for tracking the motion of galaxies to investigate how cytoskeletal filaments move inside cells! Similarly, while I’m learning so much about biology, I enjoy being in a position where I can use my mathematical knowledge to suggest novel approaches to tackle difficult biological questions and/or even come up with interesting directions to study next.
 <p><em>I think that this kind of collaborative mindset, where people can inspire each other and push each other in exciting new directions, is the future of scientific research.</em></p>
 
-**What do you like to do in your spare time outside of work?**
 <div style="display: flex; align-items: center; gap: 20px;">
   
-  <img src="/uploads/blog_images/mosby/LM_Picture.jpg" alt="" style="width: 25%" />
+  <img src="/uploads/blog_images/mosby/LM_Picture.jpg" alt="" style="width: 30%" />
 
   <p style="flex: 1;">
+    **What do you like to do in your spare time outside of work?**
+    
 In my spare time, I love playing games of all varieties (board, computer, card), doing art, and travelling whenever I can. I think it’s important to have a good escape from the tricky problems we’re trying to solve at work, and I often find that my best ideas pop up out of nowhere while I’m thinking about something else!
+
+  **Any advice for someone considering a career in mathematical biology?**
+Communication and presentation skills are a must for any career in science, but I think that working at the interface between two very different fields requires you to be able to really break down your work into the key messages you’re trying to convey and then explain them clearly to non-experts. The same is also true in reverse; it can be tricky to be exposed to high-level work in a field that you didn’t study at university
   </p>
 
 </div>
 
-**Any advice for someone considering a career in mathematical biology?**
-Communication and presentation skills are a must for any career in science, but I think that working at the interface between two very different fields requires you to be able to really break down your work into the key messages you’re trying to convey and then explain them clearly to non-experts. The same is also true in reverse; it can be tricky to be exposed to high-level work in a field that you didn’t study at university. 
 <p><em>I think that the kinds of biophysical problems at the forefront of science today can only really be answered by people from different disciplines coming together and helping each other!</em></p>
