@@ -31,7 +31,7 @@ I enjoy working at the interface between two very different fields of research. 
 **What do you like to do in your spare time outside of work?**
 <div style="display: flex; align-items: center; gap: 20px;">
   
-  <img src="/uploads/blog_images/mosby/LM_Picture.JPG" 
+  <img src="/uploads/blog_images/mosby/LM_Picture.jpg" 
        alt="" 
        style="width: 30%; max-width: 250px; border-radius: 4px;" />
 
