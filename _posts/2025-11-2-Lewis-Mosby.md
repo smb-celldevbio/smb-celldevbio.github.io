@@ -24,6 +24,7 @@ Towards the end of my studies, I realised I wanted to start applying all the tec
 
 Mathematical modelling allows us to study and understand complex biological systems by investigating how large-scale properties can emerge from small and simplified parts. Yet, there are so many biological systems that haven’t been studied using a theoretical approach. I find this fascinating! In my research, I’m particularly interested in investigating the emergence of unexpected and perhaps counterintuitive phenomena in the context of biological self-organisation using cutting-edge mathematical and computational techniques. 
 <p><em>For example, you might expect random noise to hinder biological organisation by disrupting large-scale correlations. Yet, biological systems have evolved to actually exploit noise to maintain and generate useful outputs. </em></p>  
+
 Theoretical models and simulations can help understand how and why such fascinating and unexpected behaviours may have been preferentially selected for over time by evolution.
 
 **What mathematical and computational tools do you find useful in your work?**
