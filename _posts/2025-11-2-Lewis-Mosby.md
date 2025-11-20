@@ -29,7 +29,17 @@ I enjoy working at the interface between two very different fields of research. 
 <p><em>I think that this kind of collaborative mindset, where people can inspire each other and push each other in exciting new directions, is the future of scientific research.</em></p>
 
 **What do you like to do in your spare time outside of work?**
+<div style="display: flex; align-items: center; gap: 20px;">
+  
+  <img src="/uploads/blog_images/mosby/LM_Picture.JPG" 
+       alt="" 
+       style="width: 30%; max-width: 250px; border-radius: 4px;" />
+
+  <p style="flex: 1;">
 In my spare time, I love playing games of all varieties (board, computer, card), doing art, and travelling whenever I can. I think it’s important to have a good escape from the tricky problems we’re trying to solve at work, and I often find that my best ideas pop up out of nowhere while I’m thinking about something else!
+  </p>
+
+</div>
 
 **Any advice for someone considering a career in mathematical biology?**
 Communication and presentation skills are a must for any career in science, but I think that working at the interface between two very different fields requires you to be able to really break down your work into the key messages you’re trying to convey and then explain them clearly to non-experts. The same is also true in reverse; it can be tricky to be exposed to high-level work in a field that you didn’t study at university. 
