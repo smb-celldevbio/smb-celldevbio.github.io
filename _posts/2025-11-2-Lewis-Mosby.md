@@ -13,9 +13,11 @@ In this blog post, we feature <a href="https://www.crick.ac.uk/research/find-a-r
 <p align="center"><img src="/uploads/blog_images/mosby/LM_Headshot.JPG" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
+
 I’ve always had an interest in solving puzzles. At school, I found subjects such as maths and science the most interesting. Even if questions were challenging, they always had a clear answer. Nonetheless, encouraged by my school, I originally applied to study medicine, but I was unsuccessful. After that, I felt like I could pursue my true interests: applying mathematical techniques to answer new and unusual problems by studying physics. This was definitely a better fit for me! At university, I enjoyed learning how complex systems could be broken down into small, solvable parts, which led me to learn coding, which changed the way I think about solving problems. It was my thermal and statistical physics modules that renewed my interest in biology. Thanks to passionate lecturers, I discovered how the mathematical and computational techniques that I’d been learning could be applied in a biological setting.
 
 **Was the decision to do a Ph.D. an obvious and easy choice?**
+
 Towards the end of my studies, I realised I wanted to start applying all the techniques I’d mastered to new and exciting biological questions. However, I hadn’t studied biology for four years at that point. And, while my Master's degree gave me a solid start in mathematical and coding techniques, I was aware that there were still gaps in my knowledge. There was so much more for me to learn! Pursuing a Ph.D. seemed like the best opportunity to advance my technical skills while also challenging my creativity in the application of the skills I’d already picked up during my studies.
 
 **What are the main biological research questions that you are interested in?**
@@ -25,9 +27,11 @@ Mathematical modelling allows us to study and understand complex biological syst
 Theoretical models and simulations can help understand how and why such fascinating and unexpected behaviours may have been preferentially selected for over time by evolution.
 
 **What mathematical and computational tools do you find useful in your work?**
+
 I think the most valuable skill I’ve learned is how to extract key information from a physical/biological system and translate it into a simple mathematical model (usually written in the form of partial differential equations). The exact method of solution then strongly depends on the model itself. I always find that being able to solve equations (or approximations of them) analytically using pen and paper is incredibly valuable to guide simulations, and vice versa. I primarily code in the Julia language since it can solve systems of differential equations extremely quickly, but I’ve coded in C, C++, MATLAB, Python, Mathematica, and ImageJ in the past. It’s handy to have many different tools in your toolbox so you can always pick the one best-suited for the problem at hand! I think a lot of the fun of working in the field of biophysics is finding a new way to investigate a problem, which helps reveal novel features and intuition about how a system works.
 
 **What makes you passionate about your work?**
+
 I enjoy working at the interface between two very different fields of research. This allows me to constantly learn and/or apply the techniques I’ve learned throughout my career in novel ways. For example, during my Ph.D., I used code designed for tracking the motion of galaxies to investigate how cytoskeletal filaments move inside cells! Similarly, while I’m learning so much about biology, I enjoy being in a position where I can use my mathematical knowledge to suggest novel approaches to tackle difficult biological questions and/or even come up with interesting directions to study next.
 <p><em>I think that this kind of collaborative mindset, where people can inspire each other and push each other in exciting new directions, is the future of scientific research.</em></p>
 
