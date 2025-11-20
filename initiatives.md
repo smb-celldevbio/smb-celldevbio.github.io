@@ -14,12 +14,13 @@ Here are [some examples](https://www.youtube.com/watch?v=e1xo6qWTmoc) for inspir
 ## Discussion Group: Modeling Cell Development and Regeneration
 
 Dr. Maria Abou Chakra has been running a discussion group on "Modeling Cell
-development and Regeneration". The goal of this group is to explore current
+Development and Regeneration". The goal of this group is to explore current
 models in cell development and regeneration, and discuss challenges, emerging
-questions and solutions relating to this topic. It also aims to build a community of
+questions, and solutions relating to this topic. It also aims to build a community of
 researchers with shared interests. We warmly recommend this group; you can sign up [here](https://join.slack.com/t/modeling-cell-dev/shared_invite/zt-oguwfa02-KWUWhGPw6u7HAgy1tp8QRw).
 
 # Past Activities
+
 ## Mooc Academic Interviews
 
 We are excited to offer a two-part job preparation series for job applicants seeking academic and industry jobs. To help candidates with this process, we will be hosting an Interviewing 101 webinar, as well as a practice opportunity through mock interviews. Whether you are applying for postdoctoral positions, tenure-track positions, or jobs in industry, we hope to prepare you for what the interviewing process is like. 
