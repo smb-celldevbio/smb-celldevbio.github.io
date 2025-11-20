@@ -10,7 +10,7 @@ comments: false
 In this blog post, we feature <a href="https://www.crick.ac.uk/research/find-a-researcher/lewis-mosby">Dr. Lewis Mosby</a>. Lewis is a Postdoctoral Researcher in the Mathematical and Physical Biology Lab at the Francis Crick Institute, mentored by Zena Hadjivasiliou. Lewis received his Ph.D. in biophysics at the University of Warwick before becoming an Early Career Fellow at the Institute of Advanced Study. His current research focuses on using mathematical and computational techniques to study the evolution of unexpective collective behaviour in biological systems. 
 
 
-<p align="center"><img src="/uploads/blog_images/mosby/LM_Headshot.JPG" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
+<p align="center"><img src="/uploads/blog_images/mosby/LM_Headshot.JPG" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
 I’ve always had an interest in solving puzzles. At school, I found subjects such as maths and science the most interesting. Even if questions were challenging, they always had a clear answer. Nonetheless, encouraged by my school, I originally applied to study medicine, but I was unsuccessful. After that, I felt like I could pursue my true interests: applying mathematical techniques to answer new and unusual problems by studying physics. This was definitely a better fit for me! At university, I enjoyed learning how complex systems could be broken down into small, solvable parts, which led me to learn coding, which changed the way I think about solving problems. It was my thermal and statistical physics modules that renewed my interest in biology. Thanks to passionate lecturers, I discovered how the mathematical and computational techniques that I’d been learning could be applied in a biological setting.
@@ -31,9 +31,7 @@ I enjoy working at the interface between two very different fields of research. 
 **What do you like to do in your spare time outside of work?**
 <div style="display: flex; align-items: center; gap: 20px;">
   
-  <img src="/uploads/blog_images/mosby/LM_Picture.jpg" 
-       alt="" 
-       style="width: 30%; max-width: 250px; border-radius: 4px;" />
+  <img src="/uploads/blog_images/mosby/LM_Picture.jpg" alt="" style="width: 25%" />
 
   <p style="flex: 1;">
 In my spare time, I love playing games of all varieties (board, computer, card), doing art, and travelling whenever I can. I think it’s important to have a good escape from the tricky problems we’re trying to solve at work, and I often find that my best ideas pop up out of nowhere while I’m thinking about something else!
