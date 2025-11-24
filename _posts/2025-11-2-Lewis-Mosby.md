@@ -7,14 +7,14 @@ tags: [interview]
 comments: false
 ---
 
-In this blog post, we feature <a href="https://www.crick.ac.uk/research/find-a-researcher/lewis-mosby">Dr. Lewis Mosby</a>. Lewis is a Postdoctoral Researcher in the Mathematical and Physical Biology Lab at the Francis Crick Institute, mentored by Zena Hadjivasiliou. Lewis received his Ph.D. in biophysics at the University of Warwick before becoming an Early Career Fellow at the Institute of Advanced Study. His current research focuses on using mathematical and computational techniques to study the evolution of unexpective collective behaviour in biological systems. 
+In this blog post, we feature <a href="https://www.crick.ac.uk/research/find-a-researcher/lewis-mosby">Dr. Lewis Mosby</a>. Lewis is a Postdoctoral Researcher in the Mathematical and Physical Biology Lab at the Francis Crick Institute, mentored by Zena Hadjivasiliou. Lewis received his Ph.D. in biophysics at the University of Warwick before becoming an Early Career Fellow at the Institute of Advanced Study. His current research focuses on using mathematical and computational techniques to study the evolution of unexpected collective behaviour in biological systems. 
 
 
 <p align="center"><img src="/uploads/blog_images/mosby/LM_Headshot.JPG" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 70%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
 
-I’ve always had an interest in solving puzzles. At school, I found subjects such as maths and science the most interesting. Even if questions were challenging, they always had a clear answer. Nonetheless, encouraged by my school, I originally applied to study medicine, but I was unsuccessful. After that, I felt like I could pursue my true interests: applying mathematical techniques to answer new and unusual problems by studying physics. This was definitely a better fit for me! At university, I enjoyed learning how complex systems could be broken down into small, solvable parts, which led me to learn coding, which changed the way I think about solving problems. It was my thermal and statistical physics modules that renewed my interest in biology. Thanks to passionate lecturers, I discovered how the mathematical and computational techniques that I’d been learning could be applied in a biological setting.
+I’ve always had an interest in solving puzzles. At school, I found subjects such as maths and science the most interesting. Even if questions were challenging, they always had a clear answer. Nonetheless, encouraged by my school, I originally applied to study medicine, but I was unsuccessful. After that, I felt like I could pursue my true interests: applying mathematical techniques to answer new and unusual problems by studying physics. This was definitely a better fit for me! At university, I enjoyed learning how complex systems could be broken down into small, solvable parts. This led me to learn coding, which changed the way I think about solving problems. It was my thermal and statistical physics modules that renewed my interest in biology. Thanks to passionate lecturers, I discovered how the mathematical and computational techniques that I’d been learning could be applied in a biological setting.
 
 **Was the decision to do a Ph.D. an obvious and easy choice?**
 
@@ -25,7 +25,7 @@ Towards the end of my studies, I realised I wanted to start applying all the tec
 Mathematical modelling allows us to study and understand complex biological systems by investigating how large-scale properties can emerge from small and simplified parts. Yet, there are so many biological systems that haven’t been studied using a theoretical approach. I find this fascinating! In my research, I’m particularly interested in investigating the emergence of unexpected and perhaps counterintuitive phenomena in the context of biological self-organisation using cutting-edge mathematical and computational techniques. 
 <p><em>For example, you might expect random noise to hinder biological organisation by disrupting large-scale correlations. Yet, biological systems have evolved to actually exploit noise to maintain and generate useful outputs. </em></p>  
 
-Theoretical models and simulations can help understand how and why such fascinating and unexpected behaviours may have been preferentially selected for over time by evolution.
+Theoretical models and simulations can help us understand how and why such fascinating and unexpected behaviours may have been preferentially selected for over time by evolution.
 
 **What mathematical and computational tools do you find useful in your work?**
 
