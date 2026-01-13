@@ -7,7 +7,7 @@ title: Subgroup Initiatives
 
 Think three pages for a research statement is short? What about distilling your work into just three minutes with the help of a <em>single slide</em>? In Spring 2026, we invite researchers at all career stages to take on this CHALLENGE and join other members of the SMB CDEV community for a virtual gathering aimed at offering researchers a platform to share their scientific interests and vision in a friendly and informal setting. **Presentations should be accessible to a non-specialist audience and highlight the broader significance of your work.**
 
-To sign up, please fill out the form [here]([https://forms.gle/wQNwCgD7qZ5fiih1A](https://forms.gle/wQNwCgD7qZ5fiih1A)).
+To sign up, please fill out the form [here](https://forms.gle/wQNwCgD7qZ5fiih1A).
 
 Here are [some examples](https://www.youtube.com/watch?v=e1xo6qWTmoc) for inspiration from the 2025 Oxford Mathematics 3-minute thesis challenge (featuring 2 fantastic math bio entries!).
 
