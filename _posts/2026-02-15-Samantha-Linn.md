@@ -9,7 +9,7 @@ comments: false
 
 In this blog post, we feature <a href="https://sites.google.com/view/samanthalinn/">Dr. Samantha Linn</a>. Samantha is an NSF Postdoctoral Fellow in the Department of Mathematics at Imperial College London, mentored by Paul Bressloff. She received her PhD in mathematics in 2025 at the University of Utah where she was advised by Sean Lawley. Her research concerns stochastic processes inspired by biology.
 
-<p align="center"><img src="/uploads/blog_images/Linn/SL_headshot.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 90%;" /></p>
+<p align="center"><img src="/uploads/blog_images/Linn/SL_headshot.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
 
@@ -32,9 +32,20 @@ Oftentimes my projects start with a stochastic differential equation that define
 
 As it turns out, doing mathematics research is a highly creative process and I really enjoy the feeling of discovery that it comes with. To prove things that are eternally true...and to go through this process with other passionate mathematicians...what a delight.
 
-**What makes you passionate about your work?**
+<div style="display: flex; align-items: center; gap: 40px;">
+  
+  <img src="/uploads/blog_images/mosby/SL_Picture.jpg" alt="" style="width: 35%" />
 
+  <p style="flex: 1;">
+    
+<b>What do you like to do in your spare time outside of work?</b>
+<br>
+<br>
 Anything on a mountain! My time in Utah shaped me into an avid cyclist,  climber, and skier.
+
+  </p>
+
+</div>
 
 **Any advice for someone considering a career in mathematical biology?**
 
