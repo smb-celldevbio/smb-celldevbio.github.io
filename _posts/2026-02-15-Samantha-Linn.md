@@ -9,7 +9,7 @@ comments: false
 
 In this blog post, we feature <a href="https://sites.google.com/view/samanthalinn/">Dr. Samantha Linn</a>. Samantha is an NSF Postdoctoral Fellow in the Department of Mathematics at Imperial College London, mentored by Paul Bressloff. She received her PhD in mathematics in 2025 at the University of Utah where she was advised by Sean Lawley. Her research concerns stochastic processes inspired by biology.
 
-<p align="center"><img src="/uploads/blog_images/Linn/SL_headshot.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 60%;" /></p>
+<p align="center"><img src="/uploads/blog_images/Linn/SL_headshot.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" /></p>
 
 **When did you first become interested in mathematics and biology?**
 
@@ -49,6 +49,6 @@ Anything on a mountain! My time in Utah shaped me into an avid cyclist,  climber
 
 **Any advice for someone considering a career in mathematical biology?**
 
-Have courage in shaping your own identity within the vast sea that is mathematical biology. Being a mathematical biologist can look many different ways: we can be in the field collecting data, simulating complex dynamics, constructing and analyzing theoretical models. There is space for all of us to venture these uncharted territories and learn from each other along the way.
+Have courage in shaping your own identity within the vast sea that is mathematical biology. Being a mathematical biologist can look many different ways: we can be in the field collecting data, simulating complex dynamics, constructing and analyzing theoretical models. There is space for all of us to venture these uncharted seas and learn from each other along the way.
 
 <p><em>If you are interested in learning more about Samantha work, you can find her at <a href="https://ecmtb2026.org/">joint ECMTB and SMB meeting</a> in Gratz </em></p>
