@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview with Dr Samantha Linn
-subtitle: SF Postdoctoral Fellow in the Department of Mathematics at Imperial College London
+subtitle: NSF Postdoctoral Fellow in the Department of Mathematics at Imperial College London
 gh-repo: daattali/beautiful-jekyll
 tags: [interview]
 comments: false
