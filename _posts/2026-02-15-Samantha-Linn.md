@@ -34,7 +34,7 @@ As it turns out, doing mathematics research is a highly creative process and I r
 
 <div style="display: flex; align-items: center; gap: 40px;">
   
-  <img src="/uploads/blog_images/mosby/SL_Picture.jpg" alt="" style="width: 35%" />
+  <img src="/uploads/blog_images/Linn/SL_Picture.jpg" alt="" style="width: 35%" />
 
   <p style="flex: 1;">
     
