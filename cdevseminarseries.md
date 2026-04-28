@@ -9,6 +9,7 @@ Join us this summer on Zoom to present your research to the CDEV Community. We w
 
 This is a great opportunity to hear exciting research and engage with the community, especially if you are unable to attend this year's SMB Annual Meeting in Graz, Austria!
 
+**To join [click here](https://clemson.zoom.us/j/97742728226)**
 
 Sincerely,
 
@@ -30,6 +31,7 @@ Dynamical systems theories have long been applied in modeling cellular processes
 
 Foraging behavior is inherently flexible, with individuals adapting feeding strategies in response to environmental conditions such as resource availability and predation risk. We develop mechanistic models linking environmental drivers to behavioral responses in consumer–resource systems. First, we examine feedback between foraging intensity, resource density, and competition. We then incorporate continuous variation in behavioral phenotypes, capturing differences in individual boldness. Our results show that behavioral flexibility and trait variation can stabilize population dynamics, influence species coexistence, and enhance ecosystem resilience under environmental change.
 
+**To join [click here](https://clemson.zoom.us/j/97742728226)**
 
 
 
