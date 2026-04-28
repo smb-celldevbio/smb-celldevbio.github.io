@@ -14,17 +14,17 @@ Sincerely,
 
 Your CDEV Subgroup Officers
 
-## Upcoming seminar: 4th of May 2026 (12:00-13:00 CST)
-<p align="center"><img src="/uploads/Seminar blog.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" /></p>
+# Upcoming: 4th of May 2026 (12:00-13:00 CST)
+<p align="center"><img src="/uploads/Seminar blog.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 75%;" /></p>
 
     
-[Jianhua Xing](https://www.isb.pitt.edu/people/faculty/jianhua-xing-phd) (University of Pittsburgh)
+**[Jianhua Xing](https://www.isb.pitt.edu/people/faculty/jianhua-xing-phd) (University of Pittsburgh)**
 
 <i>Integration of single-cell data into dynamical systems theory modeling</i>
 
 Dynamical systems theories have long been applied in modeling cellular processes. Over the years, my lab has been developing theoretical and computational approaches for integrating high-throughput single-cell data into constructing data-driven mechanistic biophysics-based whole-cell models. We notice that it only takes a few minutes on a desktop to reconstruct a biophysical whole-cell model from scRNAseq data. Even without any prior knowledge as input, the model reveals detailed regulatory programs, and simulated trajectories even show cell cycle arrest at various cell cycle checkpoints. In this talk, I will introduce the framework we developed, then focus on recent developments.
 
-[Shohel Ahmed](https://shohelahmed2443.github.io/) (University of Alberta)
+**[Shohel Ahmed](https://shohelahmed2443.github.io/) (University of Alberta)**
 
 <i>Foraging Behavior in Ecological Dynamics: From Environmental Drivers to Behavioral Mechanisms</i>
 
