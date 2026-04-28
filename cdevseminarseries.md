@@ -14,8 +14,14 @@ Sincerely,
 
 Your CDEV Subgroup Officers
 
-**Upcoming seminar: 4th of May 2026 (12:00-13:00 CST)**
+***Upcoming seminar: 4th of May 2026 (12:00-13:00 CST)***
 
+<div style="display: flex; align-items: center; gap: 40px;">
+  
+  <img src="/uploads/Seminar blog.jpg" alt="" style="width: 35%" />
+
+  <p style="flex: 1;">
+    
 [Jianhua Xing](https://www.isb.pitt.edu/people/faculty/jianhua-xing-phd) (University of Pittsburgh)
 
 <i>Integration of single-cell data into dynamical systems theory modeling</i>
@@ -28,5 +34,10 @@ Dynamical systems theories have long been applied in modeling cellular processes
 
 Foraging behavior is inherently flexible, with individuals adapting feeding strategies in response to environmental conditions such as resource availability and predation risk. We develop mechanistic models linking environmental drivers to behavioral responses in consumer–resource systems. First, we examine feedback between foraging intensity, resource density, and competition. We then incorporate continuous variation in behavioral phenotypes, capturing differences in individual boldness. Our results show that behavioral flexibility and trait variation can stabilize population dynamics, influence species coexistence, and enhance ecosystem resilience under environmental change.
 
-<p align="center"><img src="/uploads/blog_images/slides/cdevfest.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 35%;" /></p>
+  </p>
+
+</div>
+
+
+
 
