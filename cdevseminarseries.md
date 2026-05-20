@@ -5,7 +5,7 @@ title: CDEV Monthly Monday Summer Seminar Series
 
 **Summer, 2026, Cyberspace**
 
-Join us this summer on Zoom to present your research to the CDEV Community. We will host the seminar on the first Monday of the month from May to August (May 4, June 1, July 6, August 3). The session will consist of two  25-minute presentations, followed by questions. 
+Join us this summer on Zoom to present your research to the CDEV Community. We will host the seminar on the first Monday of the month from May to August (May 4, June 1, July 6). The session will consist of two  25-minute presentations, followed by questions. 
 
 This is a great opportunity to hear exciting research and engage with the community, especially if you are unable to attend this year's SMB Annual Meeting in Graz, Austria!
 
