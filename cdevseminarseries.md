@@ -14,7 +14,7 @@ This is a great opportunity to hear exciting research and engage with the commun
 Sincerely,
 
 Your CDEV Subgroup Officers
-# Upcoming: 1st of June 2026 (12:00-13:30 EST)
+# Upcoming: 1st of June 2026 (11:00-12:30 EST)
 <p align="center"><img src="/uploads/Seminar blog 2.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 75%;" /></p>
 
 **[Nikolas Stefanidis](https://sheffield.ac.uk/mps/people/phd-students/nikolaos-stefanidis) (University of Sheffield)**
