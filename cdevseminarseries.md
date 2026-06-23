@@ -9,12 +9,34 @@ Join us this summer on Zoom to present your research to the CDEV Community. We w
 
 This is a great opportunity to hear exciting research and engage with the community, especially if you are unable to attend this year's SMB Annual Meeting in Graz, Austria!
 
-**To join [click here](https://clemson.zoom.us/j/93561843115)**
+**To join [click here](https://clemson.zoom.us/j/94640233548)**
 
 Sincerely,
 
 Your CDEV Subgroup Officers
-# Upcoming: 1st of June 2026 (11:00-12:30 EST)
+# Upcoming: 6th of July 2026 (8:00-9:00 EST)
+<p align="center"><img src="/uploads/Seminar blog 3.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 75%;" /></p>
+
+**[Rohana Vithanage](https://fas.wyb.ac.lk/math-home/staff/gvrk-vithanage/) (Wayamba University of Sri Lanka)**
+
+<i>Modelling tumour-immune-chemotherapy dynamics</i>
+
+This work investigates an optimal control framework for a tumor–immune–chemotherapy model to explore strategies that improve treatment outcomes while minimizing drug toxicity. We consider a system of nonlinear ordinary differential equations describing the interactions among tumor cells, immune effector cells, and chemotherapeutic drug concentration. The model incorporates tumor growth, immune response, and drug-induced cytotoxic effects.
+Pontryagin’s Maximum Principle is applied to derive the necessary conditions for optimal treatment strategies. The resulting optimality system is solved numerically using a forward–backward Runge–Kutta scheme. The objective functional balances tumor reduction and immune preservation against the cost and side effects of chemotherapy. In addition, a sensitivity analysis is performed to evaluate the influence of key biological parameters on treatment outcomes and to assess the robustness of the optimal control strategy.
+
+Numerical simulations demonstrate that the optimal therapy protocol significantly reduces tumor burden while maintaining immune activity and limiting excessive drug usage. The results highlight the importance of treatment timing and dosage scheduling in achieving effective cancer control. Overall, this study provides a quantitative framework for exploring chemotherapy optimization and contributes to the development of mathematically guided cancer treatment strategies.
+
+**[Bhooma Sreedaran](https://scholar.google.com/citations?user=zJN_oVEAAAAJ&hl=en) (SRM Valliammai Engineering College, Chennai)**
+
+<i>Mathematical Modelling in Oncology</i>
+
+Mathematical Oncology is an Interdisciplinary field combining Mathematics, Biology, and Medicine that uses quantitative methods to understand cancer dynamics and to develop predictive models for tumor behavior. The key components include: Mathematical modeling of biological processes, Statistical analysis of clinical data, Computational simulations of tumor evolution, and Optimization of treatment protocols. 
+
+In this talk, I will explore some of these aspects.
+
+**To join [click here](https://clemson.zoom.us/j/94640233548)**
+
+# 1st of June 2026 (11:00-12:30 EST)
 <p align="center"><img src="/uploads/Seminar blog 2.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 75%;" /></p>
 
 **[Nikolas Stefanidis](https://sheffield.ac.uk/mps/people/phd-students/nikolaos-stefanidis) (University of Sheffield)**
@@ -39,8 +61,6 @@ We develop a Bayesian inference framework for a nonlocal FKPP–Kawarada quenchi
 <i>The spontaneous emergence of leaders and followers in a mathematical model of cranial neural crest cell migration</i>
 
 In the chick embryo, cranial neural crest cells migrate collectively in streams, with 'leader' cells at the front guiding 'followers' behind. However, it is unclear whether these identities are specified prior to, or during, migration. To address this question, we develop an agent-based model in which all cells obey identical rules of movement and carry a polarity vector that evolves according to time-averaged exposure to chemoattractant gradients. We show that, without prescribing any cell a distinct identity, leader and follower phenotypes can arise spontaneously from the underlying collective dynamics, suggesting that these identities need not be specified prior to migration.
-
-**To join [click here](https://clemson.zoom.us/j/93561843115)**
 
 # 4th of May 2026 (12:00-13:00 CST)
 <p align="center"><img src="/uploads/Seminar blog.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 75%;" /></p>
