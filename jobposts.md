@@ -5,8 +5,8 @@ title: Job Postings
 ## Join the CDEV Committee
 The current committee's 2-year term is coming to an end, and we are looking for candidates for the following positions
 <ul>
-  <li>The **Chair** organizes group meetings (the CDEV leadership typically meets once a month during the academic year), advises the SMB of subgroup activities (this involves writing a few notes for the newsletter once or twice a year, and submitting a 1-2 page report each year), and leads the organization of various special subgroup activities with the team.</li>
-  <li>The **Secretary** keeps records of membership, supports the Twitter/X account, and organizes various special subgroup activities with the team.</li>
+  <li>The <strong>Chair</strong> organizes group meetings (the CDEV leadership typically meets once a month during the academic year), advises the SMB of subgroup activities (this involves writing a few notes for the newsletter once or twice a year, and submitting a 1-2 page report each year), and leads the organization of various special subgroup activities with the team.</li>
+  <li>The <strong>Secretary</strong> keeps records of membership, supports the Twitter/X account, and organizes various special subgroup activities with the team.</li>
   <li>Item three</li>
 </ul>
 
