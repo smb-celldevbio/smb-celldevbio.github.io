@@ -7,7 +7,7 @@ If you are a current [member](https://www.smb.org/categories/) of the Society of
 
 You may also subscribe to our Google listserv [here](https://groups.google.com/g/smb_devbio_subgroup).
 
-Please email us with any suggestions at [smbcelldevbio@gmail.com](smbcelldevbio@gmail.com).
+Please email us with any suggestions at <a href="mailto:celldevbio@smb.org">celldevbio@smb.org</a>.
 
 Thank you,
 
