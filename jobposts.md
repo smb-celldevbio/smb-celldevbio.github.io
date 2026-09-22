@@ -10,7 +10,7 @@ The current committee's 2-year term is coming to an end, and we are looking for 
   <li>Item three</li>
 </ul>
 
-Standing for election simply means sending us a couple of sentences/a paragraph on your interest in running by **October 15th** <a href="mailto:celldevbio@smb.org"> by email</a>. We will include this information in the election poll that we will send in late September. 
+Standing for election simply means sending us a couple of sentences/a paragraph on your interest in running by **October 15th** <a href="mailto:celldevbio@smb.org"> by email</a>. We will include this information in the election poll that we will send in late October. 
 
 If you have any questions regarding the positions, do not hesitate to contact the current officers. Contact info [here](https://smb-celldevbio.github.io/contact/).
 
